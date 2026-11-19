@@ -196,15 +196,17 @@
       "templates:Insert template": false,
       "command-palette:Open command palette": false,
       "bases:Create new base": false,
-      "copilot:Open Copilot Agent Chat": false,
       "quickadd:QuickAdd": false,
       "templater-obsidian:Templater": false,
       "obsidian42-brat:BRAT": false,
-      "get-my-scripts-and-templates:Check templates & scripts for updates": false
+      "get-my-scripts-and-templates:Check templates & scripts for updates": false,
+      "copilot:Open Copilot Agent Chat": false
     }
   },
-  "active": "9bf3dd98e03479bd",
+  "active": "04ec1608cd2e2a54",
   "lastOpenFiles": [
+    "Templates",
+    "Scripts",
     "Rebels In Store/Campaign - Rebels in Store.md",
     "Rebels In Store/01 - Expedition/Expedition Supplies.md",
     "Rebels In Store/05 - Adventures/The Water Survey.md",
@@ -224,7 +226,6 @@
     "Rebels In Store/04 - NPCs and Factions/Agricultural Leader.md",
     "Rebels In Store/03 - Economy/Royal Supply Contracts.md",
     "Rebels In Store/00 - Campaign Rules.md",
-    "Rebels In Store/Campaign - Rebels in Store.md.tmp.362628.e8a29ccf6b70",
     "Rebels In Store/04 - NPCs and Factions/Industrial Leader.md",
     "Rebels In Store/04 - NPCs and Factions/Navigator.md",
     "Rebels In Store/03 - Economy/Colony Production.md",
