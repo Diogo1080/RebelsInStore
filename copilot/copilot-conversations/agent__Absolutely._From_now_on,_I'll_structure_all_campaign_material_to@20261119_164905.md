@@ -7,7 +7,7 @@ topic: "Absolutely. From now on, I'll structure all campaign materia…"
 model: '{"baseModelId":"default","effort":"low"}'
 tags:
   - copilot-conversation
-usage: '{"usedTokens":163196,"contextWindow":1000000,"inputTokens":2,"outputTokens":231,"cacheReadTokens":160770,"cacheWriteTokens":2193,"updatedAt":1795113986562}'
+usage: '{"usedTokens":164921,"contextWindow":1000000,"inputTokens":2,"outputTokens":126,"cacheReadTokens":164368,"cacheWriteTokens":425,"updatedAt":1795114308561}'
 ---
 
 **user**: Absolutely. From now on, I'll structure all campaign material to be Obsidian-friendly, so you can copy it directly into your vault and build a connected campaign wiki.
@@ -1945,3 +1945,30 @@ If the blur doesn't show, turn the snippet on under Settings → Appearance → 
 If you had a particular censor or spoiler plugin in mind, tell me its name and I'll format the secrets for that instead.
 <!-- copilot-message {"tools":["Edit (edit): Rebels In Store/04 - NPCs and Factions/Navigator.md","Edit (edit): Rebels In Store/01 - Expedition/The Royal Fortune.md","Edit (edit): Rebels In Store/Campaign - Rebels in Store.md","Write (edit): .obsidian/appearance.json","Bash (execute)","Write (edit)"]} -->
 [Timestamp: 2026/11/19 18:42:21]
+
+**user**: add scripts and templates to git ignore
+<!-- copilot-message {"notes":["Rebels In Store/01 - Expedition/Expedition Supplies.md"]} -->
+[Timestamp: 2026/11/19 18:50:36]
+
+**ai**: I created a `.gitignore` at the vault root that ignores `Scripts/` and `Templates/`.
+
+Git is already tracking 5 files in those folders, so the ignore only takes effect for new files:
+- `Scripts/QuickAddScripts/PickTagToDropdown.js`
+- `Scripts/TemplaterScripts/pickTagLink.js`
+- `Templates/Mission.md`
+- `Templates/People.md`
+- `Templates/PeoplePlayer.md`
+
+Git will keep tracking changes to these until they're removed from tracking with `git rm -r --cached Scripts Templates`. That leaves the files on disk, but the next commit removes them from the repository. Do you want me to run it?
+<!-- copilot-message {"tools":["Bash (execute)","Write (edit): .gitignore"]} -->
+[Timestamp: 2026/11/19 18:50:36]
+
+**user**: yes
+<!-- copilot-message {"notes":["Rebels In Store/01 - Expedition/Expedition Supplies.md"]} -->
+[Timestamp: 2026/11/19 18:51:41]
+
+**ai**: Git has stopped tracking the 5 files in `Scripts/` and `Templates/`. The files are still in your vault, and the new `.gitignore` keeps Git from picking them up again.
+
+I haven't committed anything. When you next commit, include `.gitignore` together with these removals; the removals are already staged and the `.gitignore` isn't yet. Do you want me to make that commit?
+<!-- copilot-message {"tools":["Bash (execute)"]} -->
+[Timestamp: 2026/11/19 18:51:41]
