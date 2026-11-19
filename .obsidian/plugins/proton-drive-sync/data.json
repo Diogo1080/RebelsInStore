@@ -1,0 +1,22 @@
+{
+  "remoteFolderUid": "noTtcYOsZ1Z5N3SIqhyh9DpTYK20e1qyEtm7UghgW5O8JLX4AAR44y1Kr-nnn4-e6LD5tdd0YNvtDvoDZTxiVQ==~8C8zj5V1agIHYZf0_K84DhimrWtcFUv_PXw-diCbkpW-qLSShIOPmsIa6lW6RhasL6H0WUiPzK_ArLEES8PLPQ==",
+  "remoteFolderPath": "My files / DND / Rebels in store",
+  "remoteFolderSharedBy": null,
+  "conflictPolicy": "keep-both",
+  "keepConflictCopies": true,
+  "paused": false,
+  "autoSync": true,
+  "syncOnStartup": true,
+  "uploadDebounceMs": 2000,
+  "remotePollSeconds": 30,
+  "transferConcurrency": 3,
+  "maxFileSizeMb": 0,
+  "mobileMaxFileSizeMb": 0,
+  "wifiOnly": false,
+  "excludePatterns": [],
+  "syncObsidianConfig": true,
+  "deviceName": "PT-CQ0VBC4",
+  "logLevel": "info",
+  "onboardingComplete": true,
+  "pinLockAfterMinutes": 0
+}
