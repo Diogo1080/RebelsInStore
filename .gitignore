@@ -1,2 +1,13 @@
 Scripts/
 Templates/
+
+# Plugin settings that contain credentials (API keys, tokens)
+.obsidian/plugins/get-my-scripts-and-templates/data.json
+.obsidian/plugins/copilot/data.json
+
+# Common secret files
+.env
+.env.*
+*.key
+*.pem
+secrets.*

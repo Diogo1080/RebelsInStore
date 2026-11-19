@@ -7,7 +7,7 @@ topic: "Absolutely. From now on, I'll structure all campaign materia…"
 model: '{"baseModelId":"default","effort":"low"}'
 tags:
   - copilot-conversation
-usage: '{"usedTokens":164921,"contextWindow":1000000,"inputTokens":2,"outputTokens":126,"cacheReadTokens":164368,"cacheWriteTokens":425,"updatedAt":1795114308561}'
+usage: '{"usedTokens":169235,"contextWindow":1000000,"inputTokens":2,"outputTokens":541,"cacheReadTokens":168109,"cacheWriteTokens":583,"updatedAt":1795114407291}'
 ---
 
 **user**: Absolutely. From now on, I'll structure all campaign material to be Obsidian-friendly, so you can copy it directly into your vault and build a connected campaign wiki.
@@ -1972,3 +1972,24 @@ Git will keep tracking changes to these until they're removed from tracking with
 I haven't committed anything. When you next commit, include `.gitignore` together with these removals; the removals are already staged and the `.gitignore` isn't yet. Do you want me to make that commit?
 <!-- copilot-message {"tools":["Bash (execute)"]} -->
 [Timestamp: 2026/11/19 18:51:41]
+
+**user**: add to gitignore any file that contains secrets
+<!-- copilot-message {"notes":["Rebels In Store/01 - Expedition/Expedition Supplies.md"]} -->
+[Timestamp: 2026/11/19 18:52:56]
+
+**ai**: I scanned the vault and found one real secret: a **GitHub token** in the settings of the *Get My Scripts and Templates* plugin (`.obsidian/plugins/get-my-scripts-and-templates/data.json`).
+
+**What I changed**
+- **Gitignore:** I added that settings file, plus the Copilot plugin's settings file (it holds the reference to where your API keys are stored, though not the keys themselves). I also added the usual secret file patterns: `.env`, `.env.*`, `*.key`, `*.pem` and `secrets.*`.
+- **Tracking:** I stopped Git from tracking both settings files. They stay on disk, so the plugins keep working. I haven't committed anything yet.
+
+> [!warning] The token is already exposed
+> That file was included in your "Initial commit", and the repo has a GitHub remote (`Diogo1080/RebelsInStore`). If that commit has been pushed, or the repo is ever pushed, the token sits in the history for anyone with access to the repo. Ignoring the file now doesn't remove it from past commits.
+>
+> **Revoke the token** at GitHub → Settings → Developer settings → Personal access tokens, create a new one, and paste it into the plugin's settings. Only you can do this, and it's the step that actually protects you.
+
+If you also want the token removed from the history, I can rewrite it. That changes past commits and needs a force-push. Revoking the token is usually enough.
+
+I read "secrets" as login credentials. If you also meant the campaign's DM secrets, such as the [[Navigator]] note, tell me. Ignoring those would keep them out of the repo entirely.
+<!-- copilot-message {"tools":["Bash (execute)","Write (edit): .gitignore"]} -->
+[Timestamp: 2026/11/19 18:52:56]
