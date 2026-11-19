@@ -1,0 +1,24 @@
+{
+  "pluginList": [
+    "Diogo1080/GetMyScriptsAndTemplates"
+  ],
+  "pluginSubListFrozenVersion": [
+    {
+      "repo": "Diogo1080/GetMyScriptsAndTemplates",
+      "version": ""
+    }
+  ],
+  "themesList": [],
+  "updateAtStartup": true,
+  "updateThemesAtStartup": true,
+  "enableAfterInstall": true,
+  "loggingEnabled": true,
+  "loggingPath": "BRAT-log",
+  "loggingVerboseEnabled": false,
+  "debuggingMode": true,
+  "notificationsEnabled": true,
+  "globalTokenName": "",
+  "personalAccessToken": "",
+  "selectLatestPluginVersionByDefault": true,
+  "allowIncompatiblePlugins": false
+}

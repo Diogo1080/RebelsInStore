@@ -1,0 +1,395 @@
+{
+  "main": {
+    "id": "049c1adc70288a5c",
+    "type": "split",
+    "children": [
+      {
+        "id": "ce8339645a6e7ef5",
+        "type": "tabs",
+        "dimension": 48.13084112149533,
+        "children": [
+          {
+            "id": "cd40e10cea5b4a5d",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "Rebels In Store/01 - Expedition/Expedition Supplies.md",
+                "mode": "source",
+                "source": false
+              },
+              "icon": "lucide-file",
+              "title": "Expedition Supplies"
+            },
+            "group": "7248d8e8bb9468ad"
+          },
+          {
+            "id": "dacddea507e11b1c",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "Rebels In Store/01 - Expedition/Expedition Supplies.md",
+                "mode": "source",
+                "source": false
+              },
+              "icon": "lucide-file",
+              "title": "Expedition Supplies"
+            }
+          },
+          {
+            "id": "16126b149afe9d44",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "Rebels In Store/01 - Expedition/Expedition Supplies.md",
+                "mode": "source",
+                "source": false
+              },
+              "icon": "lucide-file",
+              "title": "Expedition Supplies"
+            }
+          },
+          {
+            "id": "2cdfbcff4f9f525d",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "Rebels In Store/03 - Economy/Crown Exports.md",
+                "mode": "source",
+                "source": false
+              },
+              "icon": "lucide-file",
+              "title": "Crown Exports"
+            }
+          },
+          {
+            "id": "5119964466dd768c",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "Rebels In Store/01 - Expedition/Expedition Supplies.md",
+                "mode": "source",
+                "source": false
+              },
+              "icon": "lucide-file",
+              "title": "Expedition Supplies"
+            }
+          },
+          {
+            "id": "4a098db111daafbc",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "Rebels In Store/03 - Economy/Colony Production.md",
+                "mode": "source",
+                "source": false
+              },
+              "icon": "lucide-file",
+              "title": "Colony Production"
+            }
+          },
+          {
+            "id": "42c8dd21b16dab4d",
+            "type": "leaf",
+            "state": {
+              "type": "copilot-turn-diff-view",
+              "state": {},
+              "icon": "file-diff",
+              "title": "Colony Production.md"
+            }
+          }
+        ],
+        "currentTab": 4
+      },
+      {
+        "id": "55e3651d9ddd3056",
+        "type": "tabs",
+        "dimension": 51.86915887850467,
+        "children": [
+          {
+            "id": "86aae7b77e9a873f",
+            "type": "leaf",
+            "state": {
+              "type": "localgraph",
+              "state": {
+                "file": "Rebels In Store/01 - Expedition/Expedition Supplies.md",
+                "options": {
+                  "collapse-filter": false,
+                  "search": "",
+                  "localJumps": 5,
+                  "localBacklinks": true,
+                  "localForelinks": true,
+                  "localInterlinks": true,
+                  "showTags": false,
+                  "showAttachments": false,
+                  "hideUnresolved": false,
+                  "collapse-color-groups": false,
+                  "colorGroups": [
+                    {
+                      "query": "tag:#location",
+                      "color": {
+                        "a": 1,
+                        "rgb": 1966335
+                      }
+                    },
+                    {
+                      "query": "tag:#people",
+                      "color": {
+                        "a": 1,
+                        "rgb": 14725458
+                      }
+                    },
+                    {
+                      "query": "tag:#mission  ",
+                      "color": {
+                        "a": 1,
+                        "rgb": 11657298
+                      }
+                    }
+                  ],
+                  "collapse-display": false,
+                  "showArrow": true,
+                  "textFadeMultiplier": 1,
+                  "nodeSizeMultiplier": 1.00456940054345,
+                  "lineSizeMultiplier": 1.00456940054345,
+                  "collapse-forces": true,
+                  "centerStrength": 0.518713248970312,
+                  "repelStrength": 10,
+                  "linkStrength": 1,
+                  "linkDistance": 250,
+                  "scale": 1.4769860980686405,
+                  "close": true
+                }
+              },
+              "icon": "lucide-git-fork",
+              "title": "Graph of Expedition Supplies"
+            },
+            "group": "7248d8e8bb9468ad"
+          }
+        ]
+      }
+    ],
+    "direction": "vertical"
+  },
+  "left": {
+    "id": "d98741465b33eb34",
+    "type": "split",
+    "children": [
+      {
+        "id": "7a8d97dcae1d96cc",
+        "type": "tabs",
+        "children": [
+          {
+            "id": "04ec1608cd2e2a54",
+            "type": "leaf",
+            "state": {
+              "type": "file-explorer",
+              "state": {
+                "sortOrder": "alphabetical",
+                "autoReveal": false,
+                "showSearch": false,
+                "searchQuery": ""
+              },
+              "icon": "lucide-folder-closed",
+              "title": "Files"
+            }
+          },
+          {
+            "id": "772c06b0046e4150",
+            "type": "leaf",
+            "state": {
+              "type": "search",
+              "state": {
+                "query": "",
+                "matchingCase": false,
+                "explainSearch": false,
+                "collapseAll": false,
+                "extraContext": false,
+                "sortOrder": "alphabetical"
+              },
+              "icon": "lucide-search",
+              "title": "Search"
+            }
+          },
+          {
+            "id": "877d4091fd6debdf",
+            "type": "leaf",
+            "state": {
+              "type": "bookmarks",
+              "state": {
+                "showSearch": false,
+                "searchQuery": ""
+              },
+              "icon": "lucide-bookmark",
+              "title": "Bookmarks"
+            }
+          }
+        ]
+      }
+    ],
+    "direction": "horizontal",
+    "width": 300
+  },
+  "right": {
+    "id": "8d98324495abb905",
+    "type": "split",
+    "children": [
+      {
+        "id": "8adc52e310289696",
+        "type": "tabs",
+        "children": [
+          {
+            "id": "57a3debf740f58d8",
+            "type": "leaf",
+            "state": {
+              "type": "backlink",
+              "state": {
+                "file": "Rebels In Store/01 - Expedition/Expedition Supplies.md",
+                "collapseAll": false,
+                "extraContext": false,
+                "sortOrder": "alphabetical",
+                "showSearch": false,
+                "searchQuery": "",
+                "backlinkCollapsed": false,
+                "unlinkedCollapsed": true
+              },
+              "icon": "links-coming-in",
+              "title": "Backlinks"
+            }
+          },
+          {
+            "id": "f60a7060ab28d541",
+            "type": "leaf",
+            "state": {
+              "type": "outgoing-link",
+              "state": {
+                "file": "Rebels In Store/01 - Expedition/Expedition Supplies.md",
+                "linksCollapsed": false,
+                "unlinkedCollapsed": true
+              },
+              "icon": "links-going-out",
+              "title": "Outgoing links"
+            }
+          },
+          {
+            "id": "e7468105db244e69",
+            "type": "leaf",
+            "state": {
+              "type": "tag",
+              "state": {
+                "sortOrder": "frequency",
+                "useHierarchy": true,
+                "showSearch": false,
+                "searchQuery": ""
+              },
+              "icon": "lucide-tags",
+              "title": "Tags"
+            }
+          },
+          {
+            "id": "532c6c353e1f411c",
+            "type": "leaf",
+            "state": {
+              "type": "outline",
+              "state": {
+                "file": "Rebels In Store/01 - Expedition/Expedition Supplies.md",
+                "followCursor": false,
+                "showSearch": false,
+                "searchQuery": ""
+              },
+              "icon": "lucide-list",
+              "title": "Outline"
+            }
+          },
+          {
+            "id": "4daeec65de49cc67",
+            "type": "leaf",
+            "state": {
+              "type": "all-properties",
+              "state": {
+                "sortOrder": "frequency",
+                "showSearch": false,
+                "searchQuery": ""
+              },
+              "icon": "lucide-archive",
+              "title": "All properties"
+            }
+          },
+          {
+            "id": "03622bc1d0c18853",
+            "type": "leaf",
+            "state": {
+              "type": "copilot-agent-chat-view",
+              "state": {},
+              "icon": "copilot-agent",
+              "title": "Copilot Agent Chat"
+            }
+          }
+        ],
+        "currentTab": 5
+      }
+    ],
+    "direction": "horizontal",
+    "width": 353.0711669921875
+  },
+  "left-ribbon": {
+    "hiddenItems": {
+      "switcher:Open quick switcher": false,
+      "graph:Open graph view": false,
+      "canvas:Create new canvas": false,
+      "daily-notes:Open today's daily note": false,
+      "templates:Insert template": false,
+      "command-palette:Open command palette": false,
+      "bases:Create new base": false,
+      "copilot:Open Copilot Agent Chat": false,
+      "quickadd:QuickAdd": false,
+      "templater-obsidian:Templater": false,
+      "obsidian42-brat:BRAT": false,
+      "get-my-scripts-and-templates:Check templates & scripts for updates": false
+    }
+  },
+  "active": "04ec1608cd2e2a54",
+  "lastOpenFiles": [
+    "RebelsInStoreCampaign",
+    "Rebels In Store/04 - NPCs and Factions/Navigator.md",
+    "Rebels In Store/03 - Economy/Royal Supply Contracts.md",
+    "Rebels In Store/04 - NPCs and Factions/Quartermaster.md",
+    "Rebels In Store/Campaign - Rebels in Store.md.tmp.399868.ddb038268cd6",
+    "Rebels In Store/01 - Expedition/The Royal Fortune.md.tmp.399868.437539af5d25",
+    "Rebels In Store/04 - NPCs and Factions/Expedition Commander.md",
+    "Rebels In Store/04 - NPCs and Factions/Navigator.md.tmp.399868.9f1819663714",
+    "Rebels In Store/04 - NPCs and Factions/Navigator.md.tmp.399868.816eaac0f2e8",
+    "Rebels In Store/01 - Expedition/Expedition Supplies.md",
+    "Rebels In Store/01 - Expedition/The Royal Fortune.md.tmp.399868.203c693dbf04",
+    "Rebels In Store/04 - NPCs and Factions/Navigator.md.tmp.399868.2bd69a4f594b",
+    "Rebels In Store/01 - Expedition/The Royal Fortune.md.tmp.399868.7b7876f9d77f",
+    "Rebels In Store/Campaign - Rebels in Store.md.tmp.399868.d571023f9e34",
+    "Rebels In Store/01 - Expedition/The Royal Expedition.md",
+    "Rebels In Store/01 - Expedition/The Royal Fortune.md",
+    "Rebels In Store/04 - NPCs and Factions/Expedition Commander.md.tmp.399868.773366266739",
+    "Rebels In Store/04 - NPCs and Factions/Expedition Commander.md.tmp.399868.2ab20557e006",
+    "Rebels In Store/03 - Economy/Crown Exports.md",
+    "Rebels In Store/03 - Economy/Colony Production.md",
+    "Rebels In Store/00 - Campaign Rules.md",
+    "Rebels In Store/02 - Settler Groups/The Agricultural Settlers.md",
+    "copilot/copilot-conversations/agent__Absolutely._From_now_on,_I'll_structure_all_campaign_material_to@20261119_164905.md",
+    "copilot/copilot-conversations/agent__Ok_i_want_to_create_a_dnd_5e_campaign_that@20261119_160357.md",
+    "Rebels In Store/02 - Settler Groups/Settler Groups.md",
+    "Rebels In Store/02 - Settler Groups/The Religious Order.md",
+    "Rebels In Store/02 - Settler Groups/The Industrial Settlers.md",
+    "Rebels In Store/02 - Settler Groups/The Coastal Settlers.md",
+    "Rebels In Store/02 - Settler Groups/The Alchemists.md",
+    "Rebels In Store/02 - Settler Groups/The Frontier Settlers.md",
+    "Rebels In Store/Campaign - Rebels in Store.md",
+    "Rebels In Store/Welcome to Rebels in Store.md",
+    "copilot/skills/json-canvas/SKILL.md",
+    "copilot/skills/json-canvas/references/EXAMPLES.md",
+    "copilot/skills/obsidian-bases/SKILL.md",
+    "copilot/skills/obsidian-bases/references/EXAMPLES.md"
+  ]
+}

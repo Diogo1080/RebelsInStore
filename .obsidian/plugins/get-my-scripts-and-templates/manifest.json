@@ -1,0 +1,1 @@
+{"id":"get-my-scripts-and-templates","name":"Get My Scripts and Templates","version":"0.1.0","minAppVersion":"1.4.0","description":"Sync templates and scripts from a GitHub repository into vault folders, and ask before applying each new version.","author":"Diogo1080","isDesktopOnly":false}

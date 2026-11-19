@@ -1,0 +1,19 @@
+{
+  "activeProfile": {
+    "name": "Diogo",
+    "modifiedAt": "2026-11-19T15:46:40.758Z"
+  },
+  "profileUpdate": true,
+  "profileUpdateDelay": 800,
+  "uiUpdate": true,
+  "uiUpdateInterval": 1000,
+  "devices": {
+    "423aedf67e66a5c067f0f96d0352d72ae1a42513b261cf412a5a4cc666298dc5": "C:\\Users\\DiogoOliveira\\AppData\\Local\\ObsidianPlugins\\Data\\Profiles"
+  },
+  "statusbarInteraction": {
+    "click": "auto",
+    "ctrl_click": "none",
+    "shift_click": "none",
+    "alt_click": "none"
+  }
+}
