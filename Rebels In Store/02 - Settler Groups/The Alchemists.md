@@ -3,7 +3,7 @@ type: settler-group
 focus: Potions and oils
 size: 6
 resource: Alchemy
-leader: TBD
+leader: "[[Alchemist Leader]]"
 tags:
   - settlers
   - faction

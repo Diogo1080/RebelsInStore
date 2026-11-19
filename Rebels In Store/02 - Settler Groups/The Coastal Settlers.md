@@ -2,7 +2,7 @@
 type: settler-group
 focus: Food and survival
 size: 12
-leader: TBD
+leader: "[[Coastal Leader]]"
 tags:
   - settlers
   - faction

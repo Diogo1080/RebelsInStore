@@ -2,7 +2,7 @@
 type: settler-group
 focus: Food and expansion
 size: 12
-leader: TBD
+leader: "[[Agricultural Leader]]"
 tags:
   - settlers
   - faction

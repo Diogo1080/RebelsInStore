@@ -3,7 +3,7 @@ type: settler-group
 focus: Healing and blessings
 size: 6
 resource: Faith
-leader: TBD
+leader: "[[Religious Leader]]"
 tags:
   - settlers
   - faction

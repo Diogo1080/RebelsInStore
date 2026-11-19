@@ -2,7 +2,7 @@
 type: settler-group
 focus: Crafting and infrastructure
 size: 12
-leader: TBD
+leader: "[[Industrial Leader]]"
 tags:
   - settlers
   - faction
