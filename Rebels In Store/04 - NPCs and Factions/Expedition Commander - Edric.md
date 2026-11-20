@@ -25,7 +25,7 @@ The Crown's representative and the highest authority in [[The Royal Expedition]]
 ## Background
 - **Former master gunner** of the Royal Navy. He served aboard [[The Royal Fortune]] through the maritime wars, starting as a powder boy and rising to command its gun deck.
 - Known for holding a broken line under fire and for taking a pistol and saber onto the deck himself.
-- **Signature weapon:** a battered brass blunderbuss from the ship's armoury, which he carries everywhere. The crew joke it's the only thing he trusts more than the cannon.
+- **Signature weapon:** a battered brass blunderbuss from the ship's armoury, which he carries everywhere. The crew joke it's the only thing he trusts more than the ship's cannons.
 - After the wars the Crown gave him the expedition: a reward for his loyalty, and a convenient way to send a war hero far from court politics.
 
 ## Personality
@@ -36,13 +36,14 @@ The Crown's representative and the highest authority in [[The Royal Expedition]]
 | | |
 | --- | --- |
 | **Ideal** | Order keeps people alive |
-| **Bond** | The soldiers and crew who served under him, above all [[Quartermaster\|Isolde Brannock]], his oldest friend |
+| **Bond** | The soldiers and crew who served under him, above all [[Quartermaster - Isolde\|Isolde Brannock]], his oldest friend |
 | **Flaw** | Once he has decided something, he doesn't back down easily, even when he's wrong |
 
 ## Authority
 - **Superior of the player characters.** The players receive orders from him.
 - **Answers only to the Crown.** No one in the colony can overrule him.
-- Controls [[The Royal Fortune]], the soldiers and the ship's cannon, and has final say over [[Royal Supply Contracts|requests to the Crown]].
+- **Carries a secret scroll of *Revivify***, the colony's last resort. Only he knows about it (see [[Expedition Supplies#Medical Reserve]]).
+- Controls [[The Royal Fortune]], the soldiers and the ship's cannons, and has final say over [[Royal Supply Contracts|requests to the Crown]].
 
 ## Opinions
 - **Dismantling [[The Royal Fortune]]:** he thinks the idea is ingenious and isn't entirely against it, but knows it will make the Crown distrust him. It is also personal: this is the ship he served on for most of his life.
@@ -50,11 +51,24 @@ The Crown's representative and the highest authority in [[The Royal Expedition]]
 ## As an Enemy
 If the party turns against him, Halloway is a dangerous opponent:
 - He has the expedition's **6 soldiers** behind him (2024 Monster Manual *Guard* or *Warrior Infantry* stat blocks).
-- He controls the **cannon** and the colony's black powder.
+- He controls the **cannons** and the colony's black powder.
 - He fights tactically. He takes cover, focuses fire on spellcasters and orders his soldiers to flank.
 
 > [!warning] Difficulty
 > At CR 6 he is a **deadly** fight for a party below level 5, and still a hard one at levels 5 and 6. Use him as a threat the party must outwit or avoid until they are stronger.
+
+## Loot
+| Item | Notes |
+| --- | --- |
+| Brass blunderbuss | His signature weapon (the *Grapeshot* attack). Treat as a [Musket](https://dnd2024.wikidot.com/equipment:weapon) that can fire grapeshot |
+| 2 [Pistols](https://dnd2024.wikidot.com/equipment:weapon), a saber, powder and shot for 20 shots | |
+| Half plate armour | Royal Navy officer's, with the Crown's crest |
+| Key to the powder store | The colony's black powder |
+| Royal commission | His sealed orders from the Crown. Proof of exactly what the Crown expects from the colony |
+| 25 gp | |
+
+> [!danger]- DM ONLY
+> If he hasn't used it, he also carries the **special scroll of *Revivify*** (see [[Expedition Supplies#Medical Reserve]]).
 
 ---
 
@@ -73,7 +87,7 @@ If the party turns against him, Halloway is a dangerous opponent:
 > **Skills** Athletics +7, Intimidation +5, Perception +5, Persuasion +5
 > **Senses** Passive Perception 15
 > **Languages** Common
-> **CR** 6 (XP 2,300; PB +3)
+> **CR** 6 (PB +3)
 >
 > ### Traits
 > **Master Gunner.** Halloway ignores the Loading property of firearms. He doesn't have Disadvantage on Pistol attacks for being within 5 feet of an enemy.

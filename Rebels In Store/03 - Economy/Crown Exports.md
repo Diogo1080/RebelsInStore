@@ -16,17 +16,18 @@ Each settler group can unlock **one signature export** that the Crown wants. To 
 
 ## Exports by Group
 
-| Group | Export building | Export good |
-| --- | --- | --- |
-| [[The Coastal Settlers]] | Saltworks | Salt |
-| [[The Agricultural Settlers]] | Mill and Granary | Flour and grain |
-| [[The Industrial Settlers]] | Sawmill | Ship timber and masts |
-| [[The Alchemists]] | Dye Works | Dyes and pigments |
-| [[The Religious Order]] | Apiary and Chandlery | Beeswax candles and mead |
+| Group | Export building | Export good | Bonus to the group |
+| --- | --- | --- | --- |
+| [[The Coastal Settlers]] | Saltworks | Salt | +1 Food |
+| [[The Agricultural Settlers]] | Mill and Granary | Flour and grain | +1 Food |
+| [[The Industrial Settlers]] | Sawmill | Ship timber and masts | +1 Production |
+| [[The Alchemists]] | Dye Works | Dyes and pigments | +1 Alchemy |
+| [[The Religious Order]] | Apiary and Chandlery | Beeswax candles and mead | +1 Faith |
 
 ## Proposed Rules
 - **Building cost:** 6 Production *(TBD)*.
 - **Output:** 1 export good per week, which ships once per season.
+- **Group bonus:** the building also gives its group **+1 of its resource every week** (see the table above). Salt preserves fish, the mill wastes less grain, and so on.
 - **The group is still needed:** the building only works while its group is in the colony.
 - **Each export good can be used in one of two ways:**
   - **Sell** it to the Crown for **250 gp**, the same value as 1 Tax Point.

@@ -23,7 +23,7 @@ Leader of [[The Alchemists]]. A thin, restless scholar in her thirties with stai
 ## Background
 - A brilliant lecturer at the royal academy, expelled after an experiment burned down a wing of the library. She swears the reagents were mislabelled.
 - No one at home will fund her. A new continent with unknown plants and minerals is her last chance at a famous discovery.
-- Her five assistants are former students who followed her out of loyalty, curiosity or lack of better options.
+- Her nine assistants are former students who followed her out of loyalty, curiosity or lack of better options.
 
 ## Personality
 - **Excitable and curious to the point of danger.** She'll taste an unknown berry "for science".
@@ -42,14 +42,22 @@ Leader of [[The Alchemists]]. A thin, restless scholar in her thirties with stai
 - Build a [[Crown Exports|dye works]].
 
 ## Political Stance
-- **Rivals:** the [[Religious Leader|Religious Order]]. She thinks their blessings are superstition; they think her work is heresy. They also compete over who heals the colony.
+- **Rivals:** the [[Religious Leader - Agathe|Religious Order]]. She thinks their blessings are superstition; they think her work is heresy. They also compete over who heals the colony.
 - **Crown:** doesn't care about politics. She'll side with whoever funds her research.
 - **Party:** a great quest-giver. She pays in potions for samples from the wild lands.
 
 > [!danger]- DM ONLY: Secret
-> Lisle is fascinated by the **Stone Spring** from [[The Water Survey]]. The water has faint magical properties, and she wants to experiment on it, even if the locals consider it sacred.
+> Lisle is fascinated by the **Stone Spring** from [[01 - The Water Survey]]. The water has faint magical properties, and she wants to experiment on it, even if the locals consider it sacred.
 > - She may sneak out to take samples, causing a diplomatic incident.
 > - Her experiments could unlock a rare recipe (DM gated), or poison the colony's water.
 
 ## In Combat
 Use the **Mage Apprentice** stat block (2024 Monster Manual). Instead of spells, she throws vials: treat her fire attacks as [Alchemist's Fire](https://dnd2024.wikidot.com/equipment:adventuring-gear).
+
+## Loot
+| Item | Notes |
+| --- | --- |
+| 2 [Alchemist's Fire](https://dnd2024.wikidot.com/equipment:adventuring-gear), 1 Acid, 1 Antitoxin | The vials she throws in combat |
+| Component pouch and alchemist's supplies | |
+| Her research notebook | Notes on the continent's plants. If [[The Alchemists]] are in the colony, it unlocks one rare recipe once its ingredient is found |
+| 10 gp | |

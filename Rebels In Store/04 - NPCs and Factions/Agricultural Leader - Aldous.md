@@ -28,7 +28,7 @@ Leader of [[The Agricultural Settlers]]. A big, quiet tenant farmer in his forti
 ## Personality
 - **Patient, slow to speak, stubborn as an ox.** He thinks in seasons, not days.
 - **Quietly bitter about nobility.** He's polite to officers, but he never forgets who owns what.
-- **Kind to animals and children.** He'll be the first to ask about the bear in [[The Water Survey]].
+- **Kind to animals and children.** He'll be the first to ask about the bear in [[01 - The Water Survey]].
 
 | | |
 | --- | --- |
@@ -38,11 +38,11 @@ Leader of [[The Agricultural Settlers]]. A big, quiet tenant farmer in his forti
 
 ## Ambitions
 - **Clear the forest** for fields and pasture as fast as possible.
-- Get the land grants written down and signed by [[Expedition Commander|Halloway]], not just promised.
+- Get the land grants written down and signed by [[Expedition Commander - Edric|Halloway]], not just promised.
 - Build a [[Crown Exports|mill and granary]].
 
 ## Political Stance
-- **Rivals:** [[Coastal Leader|Marta]], who wants to stay on the coast. His forest clearing will also clash with whoever leaves the offerings at the stones.
+- **Rivals:** [[Coastal Leader - Marta|Marta]], who wants to stay on the coast. His forest clearing will also clash with whoever leaves the offerings at the stones.
 - **Crown:** loyal for now, but only because of the land grants. If the Crown breaks that promise, he becomes one of the **first and most determined rebels**.
 
 > [!danger]- DM ONLY: Secret
@@ -51,3 +51,6 @@ Leader of [[The Agricultural Settlers]]. A big, quiet tenant farmer in his forti
 
 ## In Combat
 Use the **Commoner** stat block (2024 Monster Manual), with a pitchfork. He's not a fighter, but he's strong: give him Advantage on Strength checks.
+
+## Loot
+Nothing of value beyond their work clothes and tools.

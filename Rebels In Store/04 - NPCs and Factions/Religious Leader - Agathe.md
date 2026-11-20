@@ -42,14 +42,23 @@ Leader of [[The Religious Order]]. A calm, grey-haired priestess in her late fif
 - Collect a tithe from the colony's output to fund the Order.
 
 ## Political Stance
-- **Rivals:** [[Alchemist Leader|Doctor Lisle]] (heresy, and competition over healing) and [[Industrial Leader|Vossberg]] (the stone).
+- **Rivals:** [[Alchemist Leader - Octavia|Doctor Lisle]] (heresy, and competition over healing) and [[Industrial Leader - Hilde|Vossberg]] (the stone).
 - **Crown:** she answers to the **church**, not the Crown. If the Crown treats the colonists cruelly, she'll side with the colony, and her word carries weight back home.
 
 > [!danger]- DM ONLY: Secret
-> The church sent her with orders of its own: report on the colony to the bishops, just as [[Navigator|Ashby]] reports to the Crown.
+> The church sent her with orders of its own: report on the colony to the bishops, just as [[Navigator - Corwin|Ashby]] reports to the Crown.
 > - Her reports are honest, and she'll protect the colonists in them.
 > - She suspects Ashby. If the party earns her trust, she can be their **first ally against the spy**, and she knows how sealed dispatches are handled.
 > - Her wish to convert the locals is the real danger. Handled badly, it could start the colony's first conflict with the people of the land.
 
 ## In Combat
 Use the **Priest** stat block (2024 Monster Manual). She only fights to protect the wounded, and prefers healing and *Sanctuary* to attacking.
+
+## Loot
+| Item | Notes |
+| --- | --- |
+| Holy symbol and prayer book | |
+| Healer's kit | |
+| 2 [Potions of Healing](https://dnd2024.wikidot.com/magic-item:potion-of-healing) | For the wounded, not for herself |
+| Sealed letters to the bishops | Her reports on the colony. Honest, and protective of the colonists |
+| 5 gp | She gives the rest away |

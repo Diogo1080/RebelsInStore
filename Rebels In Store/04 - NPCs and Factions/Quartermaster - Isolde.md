@@ -6,7 +6,7 @@ aliases:
   - Quartermaster Brannock
 role: Quartermaster
 faction: The Crown
-answers-to: "[[Expedition Commander]]"
+answers-to: "[[Expedition Commander - Edric]]"
 pronouns: she/her
 alignment: Lawful Neutral
 cr: 3
@@ -20,7 +20,7 @@ tags:
 
 # Quartermaster Isolde Brannock
 
-The expedition's quartermaster. She is [[Expedition Commander|Commander Halloway]]'s oldest friend and his right arm.
+The expedition's quartermaster. She is [[Expedition Commander - Edric|Commander Halloway]]'s oldest friend and his right arm.
 
 ## Background
 - Served as purser aboard [[The Royal Fortune]] during the wars, keeping the gun deck fed, supplied and paid while Halloway kept it firing.
@@ -30,6 +30,8 @@ The expedition's quartermaster. She is [[Expedition Commander|Commander Halloway
 ## Role in the Colony
 - Manages the colony's stores, rations and inventory; she is the in-game face of [[Colony Production]] and [[Expedition Supplies]].
 - Keeps the books for [[Royal Supply Contracts]], [[Crown Exports]] and the Royal Tax.
+- **Keeps the armoury.** In camp only the soldiers and Halloway carry weapons. Everyone else, the player characters included, collects their gear from her before leaving camp and returns it afterwards.
+- **Keeps the hidden potions** (see [[Expedition Supplies#Medical Reserve]]). She won't even admit they exist without a very good reason.
 - **Second in command.** When Halloway is away, she speaks with his authority.
 
 ## Personality
@@ -50,6 +52,15 @@ The expedition's quartermaster. She is [[Expedition Commander|Commander Halloway
 > [!tip] Campaign hook
 > She is the key to Halloway. Winning her over is the surest way to bring him round to the colony's side. Turning her against the party pushes him firmly back towards the Crown.
 
+## Loot
+| Item | Notes |
+| --- | --- |
+| 4 daggers and a [Pistol](https://dnd2024.wikidot.com/equipment:weapon) | |
+| Studded leather armour | |
+| Keys to the stores and the armoury | Every weapon in the colony, and the hidden potions |
+| Her ledger | The real accounts. Lists the [[Expedition Supplies#Medical Reserve\|hidden potions]] and the odd supplies [[Navigator - Corwin\|Ashby]] ordered (sealing wax, cipher paper) |
+| 15 gp | |
+
 ---
 
 ## Stat Block
@@ -67,7 +78,7 @@ The expedition's quartermaster. She is [[Expedition Commander|Commander Halloway
 > **Skills** Insight +6, Investigation +5, Perception +4, Sleight of Hand +5
 > **Senses** Passive Perception 14
 > **Languages** Common, plus one trade language
-> **CR** 3 (XP 700; PB +2)
+> **CR** 3 (PB +2)
 >
 > ### Traits
 > **Nothing Goes Missing.** Brannock has Advantage on checks to notice theft, forged documents or tampered goods.
@@ -83,7 +94,7 @@ The expedition's quartermaster. She is [[Expedition Commander|Commander Halloway
 > **Cunning Retreat.** Brannock takes the Disengage or Hide action.
 >
 > ### Reactions
-> **Covering Fire.** *Trigger:* A creature she can see within 30 feet makes an attack roll against [[Expedition Commander|Halloway]]. *Response:* She makes one Pistol attack against that creature.
+> **Covering Fire.** *Trigger:* A creature she can see within 30 feet makes an attack roll against [[Expedition Commander - Edric|Halloway]]. *Response:* She makes one Pistol attack against that creature.
 
 ### Design Notes
 - A house-made NPC, adapted from a Monster Manual scout or spy stat block and checked against the DMG's CR guidelines.

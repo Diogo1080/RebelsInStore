@@ -1,9 +1,9 @@
 ---
 type: settler-group
 focus: Potions and oils
-size: 6
+size: 10
 resource: Alchemy
-leader: "[[Alchemist Leader]]"
+leader: "[[Alchemist Leader - Octavia]]"
 tags:
   - settlers
   - faction
@@ -14,8 +14,10 @@ tags:
 
 A small team of alchemists and their assistants. They bring the colony no food or buildings. What they make is consumables for the party. See [[Settler Groups]].
 
+**Leader:** [[Alchemist Leader - Octavia|Doctor Octavia Lisle]]
+
 ## Equipment
-They bring their own laboratory: glassware, alembics, a small furnace and sealed reagent chests. It needs special stowage aboard [[The Royal Fortune]] and takes up the space of the 6 places a full settler group would otherwise fill.
+They bring their own laboratory: glassware, alembics, a small furnace and sealed reagent chests. It needs special stowage aboard [[The Royal Fortune]] and takes up the space of 10 places, so the team and its equipment fill the room of a full settler group.
 
 ## Production
 Produces **1 Alchemy per week** ([[Colony Production]]), because the work is slow. This is the Bastion *Craft* order, as in the [Laboratory](https://dnd2024.wikidot.com/bastions) facility.
@@ -47,7 +49,6 @@ Rare ingredients found on the continent unlock new recipes. This gives the party
 ## Disadvantages
 - Produce no Food or Production
 - Volatile work: fires, accidents and poisonings
-- Exotic ingredients often have to be bought from the Crown
 
 ## Export
 **Dye Works → Dyes and pigments.** Rare colours made from the continent's plants are a luxury at court. See [[Crown Exports]].

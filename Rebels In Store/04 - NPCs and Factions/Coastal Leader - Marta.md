@@ -37,18 +37,21 @@ Leader of [[The Coastal Settlers]]. A weathered fishwife in her sixties who has 
 | **Flaw** | Holds grudges for decades, especially against tax collectors |
 
 ## Ambitions
-- **Keep the colony on the coast.** She'll fight any plan to move inland (see [[The Water Survey]]).
+- **Keep the colony on the coast.** She'll fight any plan to move inland (see [[01 - The Water Survey]]).
 - Build a proper dock, boats and a [[Crown Exports|saltworks]].
 - Earn enough that her people never have to pay a harbour tax again.
 
 ## Political Stance
-- **Rivals:** the [[Agricultural Leader|farmers]], who want to push inland, and the [[Industrial Leader|builders]], who want a royal harbour (which means royal harbour taxes).
+- **Rivals:** the [[Agricultural Leader - Aldous|farmers]], who want to push inland, and the [[Industrial Leader - Hilde|builders]], who want a royal harbour (which means royal harbour taxes).
 - **Crown:** openly resentful. She's the first to grumble when the Royal Tax rises.
 
 > [!danger]- DM ONLY: Secret
 > Marta's family were **smugglers** as much as fishers. She still knows the signals and the routes, and she would happily trade with foreign or pirate ships that turn up along the coast.
 > - If the colony ever wants to trade **without the Crown**, she's the person who can make it happen.
-> - If [[Navigator|Ashby]] finds out, she becomes the Crown's first target.
+> - If [[Navigator - Corwin|Ashby]] finds out, she becomes the Crown's first target.
 
 ## In Combat
 Use the **Pirate** stat block (2024 Monster Manual). She fights with a boat hook and a gutting knife, and never alone: 2–3 fishers back her up.
+
+## Loot
+Nothing of value beyond their work clothes and tools.

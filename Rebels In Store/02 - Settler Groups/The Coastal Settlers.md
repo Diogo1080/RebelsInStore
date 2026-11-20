@@ -1,8 +1,9 @@
 ---
 type: settler-group
 focus: Food and survival
-size: 12
-leader: "[[Coastal Leader]]"
+size: 20
+resource: Food
+leader: "[[Coastal Leader - Marta]]"
 tags:
   - settlers
   - faction
@@ -12,7 +13,9 @@ tags:
 
 Experienced fishermen, sailors, coastal gatherers and people used to living off the sea. They believe the coast is the safest place to settle and the ocean can provide everything the colony initially needs. See [[Settler Groups]].
 
-## Composition (original 20-person draft)
+**Leader:** [[Coastal Leader - Marta|Marta "Old Gull" Penhallow]]
+
+## Composition
 
 | Profession | Number |
 | --- | --- |
@@ -21,6 +24,9 @@ Experienced fishermen, sailors, coastal gatherers and people used to living off 
 | Coastal gatherers | 5 |
 | Fish processors and preservers | 3 |
 | **Total** | **20** |
+
+## Production
+**+1 Food** per week (fish), on top of the colony's base 1. See [[Colony Production]].
 
 ## Advantages
 - Reliable fishing industry

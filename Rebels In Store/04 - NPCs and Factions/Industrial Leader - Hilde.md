@@ -39,17 +39,20 @@ Leader of [[The Industrial Settlers]]. A broad-shouldered master builder in her 
 ## Ambitions
 - **Build a proper harbour** for [[The Royal Fortune]] and future supply ships.
 - Set up a [[Crown Exports|sawmill]] and a forge.
-- Get her hands on metal: she'll be very interested in the **silver** at the spring (see [[The Water Survey]]).
+- Get her hands on metal: she'll be very interested in the **silver** at the spring (see [[01 - The Water Survey]]).
 
 ## Political Stance
-- **Rivals:** [[Coastal Leader|Marta]] (a royal harbour means harbour taxes) and the [[Religious Leader|Order]], who want the best stone for a temple.
+- **Rivals:** [[Coastal Leader - Marta|Marta]] (a royal harbour means harbour taxes) and the [[Religious Leader - Agathe|Order]], who want the best stone for a temple.
 - **Crown:** loyal, because the Crown and the guild pay her. That loyalty is for sale, though.
 - **Opinion on dismantling [[The Royal Fortune]]:** enthusiastic. That's the best timber on the continent.
 
 > [!danger]- DM ONLY: Secret
-> Vossberg has been offered a deal by [[Navigator|Ashby]]: report on any valuable metal found in the colony, and the Crown will clear her guild debt.
+> Vossberg has been offered a deal by [[Navigator - Corwin|Ashby]]: report on any valuable metal found in the colony, and the Crown will clear her guild debt.
 > - She hasn't decided yet. The party can win her over by offering a better deal, or by proving the Crown blamed her for its own budget cuts.
 > - If she sides with the colony, she knows exactly how to build defences against the Crown's ships.
 
 ## In Combat
 Use the **Tough** stat block (2024 Monster Manual), with a heavy builder's hammer (treat as a Warhammer).
+
+## Loot
+Nothing of value beyond their work clothes and tools.

@@ -1,8 +1,9 @@
 ---
 type: settler-group
 focus: Crafting and infrastructure
-size: 12
-leader: "[[Industrial Leader]]"
+size: 20
+resource: Production
+leader: "[[Industrial Leader - Hilde]]"
 tags:
   - settlers
   - faction
@@ -12,7 +13,9 @@ tags:
 
 Craftsmen, builders and skilled workers recruited to build the infrastructure of a permanent colony. Practical people who know a settlement cannot live in tents forever. See [[Settler Groups]].
 
-## Composition (original 20-person draft)
+**Leader:** [[Industrial Leader - Hilde|Master Builder Hilde Vossberg]]
+
+## Composition
 
 | Profession | Number |
 | --- | --- |
@@ -24,6 +27,9 @@ Craftsmen, builders and skilled workers recruited to build the infrastructure of
 | Labourers | 3 |
 | **Total** | **20** |
 
+## Production
+**+1 Production** per week, on top of the colony's base 1 (2 in total). See [[Colony Production]].
+
 ## Advantages
 - Permanent housing and defensive structures
 - Repair tools and basic equipment
@@ -32,7 +38,7 @@ Craftsmen, builders and skilled workers recruited to build the infrastructure of
 - Less dependence on imported manufactured goods
 
 ## Disadvantages
-- Consume a lot of food
+- Grow no food of their own; the colony must feed them from other groups or stores
 - Require tools, materials and equipment
 - Produce little food or income directly
 - Need iron, timber, stone and other raw materials

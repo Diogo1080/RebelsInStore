@@ -27,7 +27,7 @@ The expedition's navigator: soft-spoken, scholarly and always sketching coastlin
 ## Public Face (what the party knows)
 - A royal cartographer assigned to [[The Royal Expedition]] by the Admiralty. He holds the charts and instruments of [[The Royal Fortune]].
 - Charming, curious and helpful. He offers to map the land around the colony, keeps detailed journals and asks a lot of questions.
-- A newcomer: neither [[Expedition Commander|Halloway]] nor [[Quartermaster|Brannock]] had met him before the voyage.
+- A newcomer: neither [[Expedition Commander - Edric|Halloway]] nor [[Quartermaster - Isolde|Brannock]] had met him before the voyage.
 
 > [!danger]- DM ONLY: The Truth
 > Ashby is the **Crown's spy**, placed in the expedition to watch the colony and its leaders, Halloway included.
@@ -49,7 +49,7 @@ The expedition's navigator: soft-spoken, scholarly and always sketching coastlin
 - His journals contain far more about people than about stars or tides.
 - He reacts badly when anyone handles the sealed dispatch cases.
 - A sailor notices he navigates surprisingly poorly for a royal navigator.
-- [[Quartermaster|Brannock]] finds supplies on her ledgers that she never ordered: sealing wax, cipher paper, extra ink.
+- [[Quartermaster - Isolde|Brannock]] finds supplies on her ledgers that she never ordered: sealing wax, cipher paper, extra ink.
 - He asks probing questions about Halloway's opinions of the Crown.
 
 ## If He Is Exposed
@@ -62,6 +62,20 @@ The expedition's navigator: soft-spoken, scholarly and always sketching coastlin
 | **Ideal** | The Crown's order must reach every corner of the world |
 | **Bond** | His handler at court, who promised him a title |
 | **Flaw** | Vanity: he can't resist showing how clever he is |
+
+## Loot
+| Item | Notes |
+| --- | --- |
+| Rapier, hand crossbow and 20 bolts | |
+| 3 vials of poison | For his crossbow bolts: DC 13 Constitution save or 2d6 Poison damage and Poisoned |
+| Studded leather armour | |
+| Spyglass and navigator's instruments | Genuine, but barely used |
+| His "navigation journals" | Coded reports to the Crown. Unreadable without the cipher |
+| Sealed Admiralty dispatch case | His latest report, ready for the next ship |
+| 40 gp | More than a cartographer should have |
+
+> [!danger]- DM ONLY: The cipher
+> The cipher key is sewn into the lining of his coat (**DC 15 Wisdom (Perception)** to find when searching him). With it, the journals reveal everything he has reported, including what the party told him on [[01 - The Water Survey]]. Without it, cracking the code takes a week and a **DC 18 Intelligence (Investigation)** check.
 
 ---
 
@@ -80,7 +94,7 @@ The expedition's navigator: soft-spoken, scholarly and always sketching coastlin
 > **Skills** Deception +7, Insight +6, Investigation +5, Perception +4, Stealth +7
 > **Senses** Passive Perception 14
 > **Languages** Common, plus two more (including a Crown cipher)
-> **CR** 4 (XP 1,100; PB +2)
+> **CR** 4 (PB +2)
 >
 > ### Traits
 > **False Face.** Ashby has Advantage on Charisma (Deception) checks to pass as a harmless scholar.

@@ -1,9 +1,9 @@
 ---
 type: settler-group
 focus: Healing and blessings
-size: 6
+size: 10
 resource: Faith
-leader: "[[Religious Leader]]"
+leader: "[[Religious Leader - Agathe]]"
 tags:
   - settlers
   - faction
@@ -14,15 +14,19 @@ tags:
 
 A small group of priests, acolytes and healers sent to bring faith to the colony and care for its sick. See [[Settler Groups]].
 
+**Leader:** [[Religious Leader - Agathe|Mother Agathe Morrow]]
+
 ## Equipment
-They bring a portable altar, relics, holy water casks, an infirmary chest and the tools for making pendants. These need special stowage aboard [[The Royal Fortune]] and take up the space of the 6 places a full settler group would otherwise fill.
+They bring a portable altar, relics, holy water casks, an infirmary chest and the tools for making pendants. These need special stowage aboard [[The Royal Fortune]] and take up the space of 10 places, so the team and its equipment fill the room of a full settler group.
 
 ## Production
 Produces **1 Faith per week** ([[Colony Production]]), because the work is slow. This is the Bastion *Craft* order, as in the Sanctuary facility.
 
 ## Healing Potions
 
-| Item | Faith cost |
+Potions are brewed in **batches of 3**. The cost below is for the whole batch.
+
+| Item | Faith cost (batch of 3) |
 | --- | --- |
 | [Potion of Healing](https://dnd2024.wikidot.com/magic-item:potion-of-healing) (2d4+2) | 1 |
 | Potion of Greater Healing (4d4+4) | 3 |

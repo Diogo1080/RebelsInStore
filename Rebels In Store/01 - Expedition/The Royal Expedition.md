@@ -1,7 +1,7 @@
 ---
 type: expedition
 status: planning
-population: 65
+population: 64
 ship: "[[The Royal Fortune]]"
 tags:
   - expedition
@@ -10,7 +10,7 @@ tags:
 
 # The Royal Expedition
 
-A modest royal expedition of **65 people** aboard a single repurposed carrack, [[The Royal Fortune]]. Not a town - a precarious foothold that must grow organically.
+A modest royal expedition of **64 people** aboard a single repurposed carrack, [[The Royal Fortune]]. Not a town - a precarious foothold that must grow organically.
 
 ## Population
 
@@ -19,8 +19,8 @@ A modest royal expedition of **65 people** aboard a single repurposed carrack, [
 | Ship crew | 15 |
 | Leadership and administration | 3 |
 | Soldiers and guards | 6 |
-| Settlers and specialists | 41 |
-| **Total** | **65** |
+| Settlers and specialists | 40 |
+| **Total** | **64** |
 
 Settlers are drawn from the [[Settler Groups]]. Everyone must contribute to the survival of the encampment.
 
@@ -28,19 +28,20 @@ Settlers are drawn from the [[Settler Groups]]. Everyone must contribute to the 
 
 | Position | Responsibility |
 | --- | --- |
-| [[Expedition Commander]] | Overall authority and royal representative |
-| [[Quartermaster]] | Supplies, rations and inventory |
-| [[Navigator]] | Navigation, charts and maritime knowledge |
+| [[Expedition Commander - Edric]] | Overall authority and royal representative |
+| [[Quartermaster - Isolde]] | Supplies, rations and inventory |
+| [[Navigator - Corwin]] | Navigation, charts and maritime knowledge |
 
 ### Chain of Command
-**The Crown → [[Expedition Commander]] → Player characters → Settlers**
+**The Crown → [[Expedition Commander - Edric]] → Player characters → Settlers**
 
-- The [[Expedition Commander]] is the players' superior and answers **only to the Crown**.
+- The [[Expedition Commander - Edric]] is the players' superior and answers **only to the Crown**.
 - The players carry out the commander's orders and run the colony day to day.
 - Nobody in the colony can overrule the commander. Only a royal decree arriving on the supply ship can.
+- **Weapons in camp:** only the soldiers and the commander go armed. Everyone else's weapons and armour are kept in the stores by the [[Quartermaster - Isolde|Quartermaster]], and handed out for expeditions.
 
 ## Supplies
-See [[Expedition Supplies]] - roughly 60 days of provisioning for 65 people.
+See [[Expedition Supplies]] - two seasons (8 weeks) of provisioning for 64 people.
 
 ## Landing and Encampment
 

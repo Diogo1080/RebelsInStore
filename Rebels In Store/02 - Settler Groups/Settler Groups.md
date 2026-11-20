@@ -7,33 +7,33 @@ tags:
 
 # Settler Groups
 
-Four expedition groups compete for limited space aboard [[The Royal Fortune]] and limited Crown funding. Each gives the colony a strength and a weakness; none is objectively better.
+Three settler groups and two specialist teams compete for limited space aboard [[The Royal Fortune]] and limited Crown funding. Each gives the colony a strength and a weakness; none is objectively better.
 
 | Group | Settlers | Main strength | Main weakness |
 | --- | --- | --- | --- |
-| [[The Coastal Settlers]] | 12 | Immediate food | Infrastructure |
-| [[The Agricultural Settlers]] | 12 | Long-term food | Slow development |
-| [[The Industrial Settlers]] | 12 | Construction and crafting | Food dependency |
+| [[The Coastal Settlers]] | 20 | Immediate food | Infrastructure |
+| [[The Agricultural Settlers]] | 20 | Long-term food | Slow development |
+| [[The Industrial Settlers]] | 20 | Construction and crafting | Food dependency |
 
 
 ### Specialist Teams
-Small teams of 6 that make items for the party rather than resources for the colony.
+Small teams of 10 that make items for the party rather than resources for the colony.
 
 | Team | Settlers | Main strength | Main weakness |
 | --- | --- | --- | --- |
-| [[The Alchemists]] | 6 | Potions (no healing) and oils | No food or production |
-| [[The Religious Order]] | 6 | Healing potions and blessed pendants | No food or production; own agenda |
+| [[The Alchemists]] | 10 | Potions (no healing) and oils | No food or production |
+| [[The Religious Order]] | 10 | Healing potions and blessed pendants | No food or production; own agenda |
 
 ## Selection Rules
 The party chooses **one** of these starting options:
 
 | Option | Groups | People | Trade-off |
 | --- | --- | --- | --- |
-| **A. Two settler groups** | 2 settler groups | 24 | More colony output (4 points a week) |
-| **B. Settler + specialist** | 1 settler group + 1 specialist team | 18 | Items for the party. The 6 places saved are taken up by the team's specialist equipment |
+| **A. Two settler groups** | 2 settler groups | 40 | More colony output (two groups producing every week) |
+| **B. Settler + specialist** | 1 settler group + 1 specialist team | 30 | Items for the party. The 10 places saved are taken up by the team's specialist equipment |
 
-- Remaining space goes to soldiers, administrators and support staff.
-- Unchosen groups can arrive later via [[Royal Supply Contracts]], investment or attracting settlers.
+- Either option fills the expedition's 40 settler places. The rest of the ship carries the crew, leadership and soldiers (see [[The Royal Expedition#Population]]).
+- On the first supply ship, the party picks **one more settler group** (not a specialist team), which arrives free at the end of summer. After that, more groups must be paid for. See [[Royal Supply Contracts#Choosing the Next Group]].
 
 ## Colony Identities
 
@@ -52,4 +52,10 @@ The party chooses **one** of these starting options:
 ## Group Leaders
 Each group has a leader NPC with their own ambitions, giving the group a political voice in the settlement (e.g. the Industrial leader pushes for a harbour; the Agricultural leader wants the forest cleared).
 
-> [!todo] Compositions in the group notes are written for 20 people and still need scaling to 12.
+| Group | Leader |
+| --- | --- |
+| [[The Coastal Settlers]] | [[Coastal Leader - Marta\|Marta "Old Gull" Penhallow]] |
+| [[The Agricultural Settlers]] | [[Agricultural Leader - Aldous\|Aldous Fenwick]] |
+| [[The Industrial Settlers]] | [[Industrial Leader - Hilde\|Master Builder Hilde Vossberg]] |
+| [[The Alchemists]] | [[Alchemist Leader - Octavia\|Doctor Octavia Lisle]] |
+| [[The Religious Order]] | [[Religious Leader - Agathe\|Mother Agathe Morrow]] |
