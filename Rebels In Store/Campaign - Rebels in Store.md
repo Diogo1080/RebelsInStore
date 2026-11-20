@@ -24,6 +24,9 @@ A colonisation campaign: the Crown sends a small expedition to establish a footh
 - [[Quartermaster - Isolde|Quartermaster Isolde Brannock]] - Halloway's oldest friend and right arm (CR 3)
 - [[Navigator - Corwin|Navigator Corwin Ashby]] - royal cartographer (CR 4) %% DM: secretly the Crown's spy %%
 
+### The Forest People
+- [[Forest Druid - Sharia|Sharia]] - lizardfolk druid; watches the colony and tends the sacred places (CR 3) %% DM: saw Ashby at the spring %%
+
 ### Settler Group Leaders
 - [[Coastal Leader - Marta|Marta "Old Gull" Penhallow]] - Coastal Settlers; wants to stay on the coast %% DM: ex-smuggler %%
 - [[Agricultural Leader - Aldous|Aldous Fenwick]] - Agricultural Settlers; wants the forest cleared and land deeds %% DM: deeds will betray him %%

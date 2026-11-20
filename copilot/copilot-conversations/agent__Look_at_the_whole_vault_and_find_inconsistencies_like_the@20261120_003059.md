@@ -7,7 +7,8 @@ topic: "Look at the whole vault and find inconsistencies like the on…"
 model: '{"baseModelId":"default","effort":"low"}'
 tags:
   - copilot-conversation
-usage: '{"usedTokens":311676,"contextWindow":1000000,"inputTokens":2,"outputTokens":275,"cacheReadTokens":310774,"cacheWriteTokens":625,"updatedAt":1795146336852}'
+usage: '{"usedTokens":368782,"contextWindow":1000000,"inputTokens":2,"outputTokens":508,"cacheReadTokens":367024,"cacheWriteTokens":1248,"updatedAt":1795174298884}'
+lastAccessedAt: 1795172951355
 ---
 
 **user**: Look at the whole vault and find inconsistencies like the one writen in the end of this file
@@ -1029,7 +1030,6 @@ I made the change with a script, so Copilot won't show a diff.
 [Timestamp: 2026/11/20 02:10:36]
 
 **user**: The water survey gives the colony +1 food if they kill every animal
-<!-- copilot-message {"notes":["Rebels In Store/05 - Adventures/The Water Survey.md"]} -->
 [Timestamp: 2026/11/20 02:13:04]
 
 **ai**: I've added the reward to the Rewards section of [[The Water Survey]]: if the party kills every creature they meet (the crabs, the stirges and the bear or wolves), they bring the meat back and the colony gains **+1 Food**.
@@ -1041,7 +1041,6 @@ The Water Survey is level 1 and the reward is a one-off, so I kept it at +1 Food
 [Timestamp: 2026/11/20 02:13:04]
 
 **user**: on the ambush at the stakes give the players that ask about the gulls an option to roll nature instead with lower dc
-<!-- copilot-message {"notes":["Rebels In Store/05 - Adventures/The Water Survey.md"]} -->
 [Timestamp: 2026/11/20 02:15:44]
 
 **ai**: I've added a "Reading the gulls" option to the Ambush at the Stakes in [[The Water Survey]]. A player who asks why the gulls avoid the stakes can make a **DC 10 Intelligence (Nature)** check instead of trying to beat the crabs' Stealth roll. On a success, they realise gulls keep clear of mud where something big hunts, and they spot the crabs.
@@ -1051,7 +1050,6 @@ The crabs roll Stealth at +4, so they usually land around 14. A flat DC 10 makes
 [Timestamp: 2026/11/20 02:15:44]
 
 **user**: the discovery on the fog marsh is for that week only
-<!-- copilot-message {"notes":["Rebels In Store/05 - Adventures/The Water Survey.md"]} -->
 [Timestamp: 2026/11/20 02:18:28]
 
 **ai**: The marsh discovery now gives food for one week only. I changed two places in [[The Water Survey]]:
@@ -1063,7 +1061,6 @@ It used to read as a permanent second food source for the Coastal or Agricultura
 [Timestamp: 2026/11/20 02:18:28]
 
 **user**: Spread Ashby the guide advice on each part of the adventure
-<!-- copilot-message {"notes":["Rebels In Store/05 - Adventures/The Water Survey.md"]} -->
 [Timestamp: 2026/11/20 02:20:16]
 
 **ai**: I've moved Ashby's advice out of the single table and into each part of [[The Water Survey]]. Each site now has its own collapsible **Ashby advises** box with what he notices, what he says and how it affects play:
@@ -1080,7 +1077,6 @@ I made the change with a script, so Copilot won't show a diff.
 [Timestamp: 2026/11/20 02:20:16]
 
 **user**: on each npc after what they do put their first name on the tittle
-<!-- copilot-message {"notes":["Rebels In Store/05 - Adventures/The Water Survey.md"]} -->
 [Timestamp: 2026/11/20 02:22:11]
 
 **ai**: Files renamed; the link update failed on a regex typo. Fixing it now.Each NPC note now has the character's first name after their role:
@@ -1103,7 +1099,6 @@ The headings inside the notes still show each NPC's full name, for example "Mart
 [Timestamp: 2026/11/20 02:22:11]
 
 **user**: how do the players find out about the marsh full of food?
-<!-- copilot-message {"notes":["Rebels In Store/05 - Adventures/The Water Survey.md"]} -->
 [Timestamp: 2026/11/20 02:23:54]
 
 **ai**: The note didn't explain how the party finds out. It said the marsh was full of food but gave no way to notice it. I've added three ways to the Fog Marsh section of [[The Water Survey]]:
@@ -1117,7 +1112,6 @@ This makes the marsh choice more interesting. Crossing is riskier, with the sink
 [Timestamp: 2026/11/20 02:23:54]
 
 **user**: The bear guards a magical item, uncommon
-<!-- copilot-message {"notes":["Rebels In Store/05 - Adventures/The Water Survey.md"]} -->
 [Timestamp: 2026/11/20 02:25:45]
 
 **ai**: I've added a **Bear's Hoard** section to the Overgrown Camp in [[The Water Survey]]. Under the bear's bedding are the last belongings of the old camp's leader, including a [Lantern of Revealing](https://dnd2024.wikidot.com/magic-item:lantern-of-revealing), an uncommon item.
@@ -1133,7 +1127,6 @@ If you'd prefer a different uncommon item, a Decanter of Endless Water would sui
 [Timestamp: 2026/11/20 02:25:45]
 
 **user**: give me 5 ideas for uncommon magical items that could be used by the old inhabitants of the camp
-<!-- copilot-message {"notes":["Rebels In Store/05 - Adventures/The Water Survey.md"]} -->
 [Timestamp: 2026/11/20 02:28:15]
 
 **ai**: I've added five alternatives to the Bear's Hoard section of [[The Water Survey]], in a collapsed **"Alternative items (all uncommon)"** box under the lantern. Each one has a reason the old settlers owned it and a story hook:
@@ -1149,7 +1142,6 @@ The lantern is still the default item. Pick any of these to replace it, and I'll
 [Timestamp: 2026/11/20 02:28:15]
 
 **user**: I like the cloak of elvenkind it makes it so that the party also need to see it
-<!-- copilot-message {"notes":["Rebels In Store/05 - Adventures/The Water Survey.md"]} -->
 [Timestamp: 2026/11/20 02:29:39]
 
 **ai**: The bear now guards the **Cloak of Elvenkind** instead of the lantern. I've updated the Bear's Hoard section in [[The Water Survey]]:
@@ -1165,7 +1157,6 @@ I made the change with a script, so Copilot won't show a diff.
 [Timestamp: 2026/11/20 02:29:39]
 
 **user**: the cloak smells of bear as it was using it as a place to sleep on top
-<!-- copilot-message {"notes":["Rebels In Store/05 - Adventures/The Water Survey.md"]} -->
 [Timestamp: 2026/11/20 02:31:21]
 
 **ai**: The cloak now smells of bear. In the Bear's Hoard section of [[The Water Survey]]:
@@ -1177,7 +1168,6 @@ Players who befriend the bear might guess its bedding is worth checking. I made 
 [Timestamp: 2026/11/20 02:31:21]
 
 **user**: remove the keep searching option
-<!-- copilot-message {"notes":["Rebels In Store/05 - Adventures/The Water Survey.md"]} -->
 [Timestamp: 2026/11/20 02:33:58]
 
 **ai**: I've removed the **Keep searching** option from the water decision in the Report section of [[The Water Survey]]. Halloway now chooses between two options:
@@ -1189,7 +1179,6 @@ That makes the choice simpler: protect the coast and the ship, or move the camp 
 [Timestamp: 2026/11/20 02:33:58]
 
 **user**: on the hook the party needs to get their equipment with isolde the quartermaster. while at camp no one is armed except the soldiers and the commander
-<!-- copilot-message {"notes":["Rebels In Store/05 - Adventures/The Water Survey.md"]} -->
 [Timestamp: 2026/11/20 02:37:39]
 
 **ai**: Some old NPC links came back in this note, so I'll re-run the link fix first.I've added a **Gearing Up** section to The Hook in [[The Water Survey]]:
@@ -1267,7 +1256,6 @@ The class-list concern I raised before no longer applies: any of your three play
 [Timestamp: 2026/11/20 02:43:04]
 
 **user**: Add loot relative to any npc that the party might fight. the leaders of each normal group dont have nothign
-<!-- copilot-message {"notes":["Rebels In Store/04 - NPCs and Factions/Expedition Commander - Edric.md"]} -->
 [Timestamp: 2026/11/20 02:44:19]
 
 **ai**: Every NPC note now has a **Loot** section. For Halloway, Brannock and Ashby it sits just before their stat block; for the five group leaders it's at the end of the note.
@@ -1304,7 +1292,6 @@ Most of the valuable loot is evidence or access, such as the commission, the led
 [Timestamp: 2026/11/20 02:44:19]
 
 **user**: if the party kill the bear they also get +1 production because albeit old the camp still has good resources
-<!-- copilot-message {"notes":["Rebels In Store/05 - Adventures/The Water Survey.md"]} -->
 [Timestamp: 2026/11/20 02:48:23]
 
 **ai**: I've added a reward to [[The Water Survey]]. If the party **kills the bear**, the old camp is safe to strip, and its timber, tools and nails give the colony **+1 Production**.
@@ -1318,7 +1305,6 @@ I made the change with a script, so Copilot won't show a diff.
 [Timestamp: 2026/11/20 02:48:23]
 
 **user**: no the bear would come back and harass anyone trying to remove anything from there
-<!-- copilot-message {"notes":["Rebels In Store/05 - Adventures/The Water Survey.md"]} -->
 [Timestamp: 2026/11/20 02:49:18]
 
 **ai**: The salvage reward now only applies if the bear is killed. I added this to [[The Water Survey]]: if the bear was only scared off or distracted, it comes back and harasses anyone trying to remove anything from the camp, so there's no salvage.
@@ -1328,7 +1314,6 @@ That leaves the befriended bear. It stays around the old camp and accepts the pa
 [Timestamp: 2026/11/20 02:49:18]
 
 **user**: if the players befriend the bear then it moves away from this place and when the water works are built they get a 2 prod discount
-<!-- copilot-message {"notes":["Rebels In Store/05 - Adventures/The Water Survey.md"]} -->
 [Timestamp: 2026/11/20 02:50:58]
 
 **ai**: Befriending the bear now has its own salvage reward:
@@ -1351,7 +1336,6 @@ The other befriend rewards, the safer trail and the bear's help later, still mak
 [Timestamp: 2026/11/20 02:50:58]
 
 **user**: Ok next adventure will be searching for more food as the commander is worried
-<!-- copilot-message {"notes":["Rebels In Store/05 - Adventures/The Water Survey.md"]} -->
 [Timestamp: 2026/11/20 02:54:00]
 
 **ai**: I've written the next adventure as a new note, [[The Lean Weeks]], following the same structure as [[The Water Survey]]. I also added it to the Adventures list in [[Campaign - Rebels in Store]].
@@ -1384,7 +1368,6 @@ The other befriend rewards, the safer trail and the bear's help later, still mak
 [Timestamp: 2026/11/20 02:54:00]
 
 **user**: add numeric denomination on the quests
-<!-- copilot-message {"notes":["Rebels In Store/05 - Adventures/The Water Survey.md"]} -->
 [Timestamp: 2026/11/20 02:55:28]
 
 **ai**: The adventure notes are now numbered:
@@ -1791,3 +1774,451 @@ This is an exception to the general companion rule, "never fights unless cornere
 That fits the stronger version of Fenwick you wanted: brave but out of his depth. Losing the fight is now worse with him along: no weapons, a delay getting home, and the raid due the very next week.
 <!-- copilot-message {"tools":["Bash (execute)"]} -->
 [Timestamp: 2026/11/20 03:45:25]
+
+**user**: on the altar give the players a religion check to know a bit more about the customs it should give an idea if it is agressive or not
+<!-- copilot-message {"notes":["Rebels In Store/05 - Adventures/02 - The Lean Weeks.md"]} -->
+[Timestamp: 2026/11/20 10:18:19]
+
+**ai**: I've added a **Religion check at the altar** to the Elk Meadows route in [[02 - The Lean Weeks]], where the party passes the Stone Spring and finds its offerings changed. I took "the altar" to mean the spring's offerings. If you meant the marker post at the meadows, tell me and I'll move it.
+
+A **DC 13 Intelligence (Religion)** check shows what the change means and how hostile the forest people are:
+
+| What they find | What it means |
+| --- | --- |
+| **A new carved bowl** | A **welcome**, cautious but sincere. They'd accept a gift in return |
+| **A line of stones** | A **warning, not a threat**: they want the colony to stop, not to leave |
+| **A cut rope** | **The last warning before violence.** Another offence, and they'll answer it |
+
+On a failure, the party only knows the offerings were changed on purpose.
+
+This gives the players a fair warning about the forest people before they reach the marker post and decide whether to hunt there. If the rope was cut, hunting past the post could start the colony's first real conflict.
+<!-- copilot-message {"tools":["Bash (execute)"]} -->
+[Timestamp: 2026/11/20 10:18:19]
+
+**user**: On the ask permission option give the party a perception check that will give a glimpse of lizard folk like creatures in the tree
+<!-- copilot-message {"notes":["Rebels In Store/05 - Adventures/02 - The Lean Weeks.md"]} -->
+[Timestamp: 2026/11/20 10:22:17]
+
+**ai**: I've added **"The glimpse"** under the hunting choices at the Elk Meadows in [[02 - The Lean Weeks]]. If the party asks permission, whoever keeps watch that night can make a **DC 15 Wisdom (Perception)** check. The soldier gives Advantage, since they're best at Perception on this lead.
+
+- **Success:** in the grey before dawn, they see tall, scaled figures with long jaws and feathered crests in the trees, like lizardfolk. One climbs down without a sound, ties the red cloth to the post, looks straight at the watcher, and is gone.
+- **Failure:** they see nothing, and the red cloth is simply there in the morning.
+
+A DM note says this is the first time anyone sees the forest people, and suggests not explaining them yet and letting the players argue about what they saw.
+
+Asking permission is now the only way to see them, so the most respectful choice is also the one that rewards curious players.
+<!-- copilot-message {"tools":["Bash (execute)"]} -->
+[Timestamp: 2026/11/20 10:22:17]
+
+**user**: instead of red it should be green the cloth
+<!-- copilot-message {"notes":["Rebels In Store/05 - Adventures/02 - The Lean Weeks.md"]} -->
+[Timestamp: 2026/11/20 10:23:39]
+
+**ai**: The cloth is now **green** in both places it appears in [[02 - The Lean Weeks]]: the "Ask permission" option and "The glimpse". No other note mentioned it.
+
+Green could become their sign for permission or friendship. If you'd like that to recur, they could use it again in later meetings with the colony.
+<!-- copilot-message {"tools":["Bash (execute)"]} -->
+[Timestamp: 2026/11/20 10:23:39]
+
+**user**: If anyone speaks draconic there is hints towards what everything means as well. make them cryptic as the lizard folk dont write normal
+<!-- copilot-message {"notes":["Rebels In Store/05 - Adventures/02 - The Lean Weeks.md"]} -->
+[Timestamp: 2026/11/20 10:32:53]
+
+**ai**: I've added a **"Reading the Signs (Draconic)"** section to [[02 - The Lean Weeks]], just before Trail Events. The forest people write in scratches, knots and carved pictures with a few Draconic root-words mixed in. A character who speaks Draconic can make out fragments, never whole sentences, so the players still have to work out what each sign means.
+
+| Sign | A Draconic speaker reads |
+| --- | --- |
+| Carved bowl (the spring) | *"...water... shared... the one who drinks is... (a word like 'egg-kin')..."* |
+| Line of stones | *"...here, no further... the river... remembers feet..."* |
+| Cut rope | *"...the knot... undone... next... (a sign like a tooth)..."* |
+| Marker post | *"...the herd... counted... we count... who takes, is counted..."* |
+| Green cloth | *"...one... one taking... the sun goes, it ends..."* |
+| Fish weir | *"...hands made... hands keep... ask the hands..."* |
+| Stone under the oldest tree | *"...first tree... before the before... they planted, we watered..."* |
+| Keeper's house carvings | *"...from the water, the pale ones... stayed... grew old... we kept the trees..."* |
+
+A hidden DM note under the table explains each sign plainly.
+
+Two details in the fragments add lore you haven't confirmed yet:
+- **The green cloth** grants a single hunt that ends at sunset.
+- **The orchard** was planted by earlier settlers from over the sea, "the pale ones", and the forest people tended it after those settlers died.
+
+Change either if it doesn't fit your plans for the forest people.
+<!-- copilot-message {"tools":["Bash (execute)"]} -->
+[Timestamp: 2026/11/20 10:32:53]
+
+**user**: For the pull make it that they follow some tracks that they need to find that takes them a bit deeper into the forest there they will meet sharia a druid lizardfolk prepared to either warn or talk
+<!-- copilot-message {"notes":["Rebels In Store/05 - Adventures/02 - The Lean Weeks.md"]} -->
+[Timestamp: 2026/11/20 10:40:31]
+
+**ai**: The Elk Meadows' pull onward now leads to **Sharia**, a lizardfolk druid, instead of the grain valley. In [[02 - The Lean Weeks]]:
+
+**Reaching the grove:**
+- **The tracks:** at sunset, near the marker post, there are fresh three-toed tracks, the same as the ones around the camp. A **DC 13 Perception** check spots them, and the soldier gives Advantage.
+- **Following them:** a **DC 14 Survival** check keeps the trail. On a failure, the party loses it for half a day.
+- **The grove:** a clearing ringed by carved trees, where Sharia is already waiting. Sharia let the party follow.
+
+**Sharia:** grey-green, with a white feathered crest and a staff hung with small bones. Sharia speaks Draconic and a few words of Common. How Sharia responds depends on the forest people's attitude:
+
+| Attitude | Sharia |
+| --- | --- |
+| **Hostile** | **Warns:** shows them a line they must not cross and tells them to go |
+| **Wary** | **Talks:** *"You come... to stay? Or to take?"* The party's answer sets the relationship |
+| **Friendly** | **Talks and helps:** leads them to the wild grain valley and lets them take seed stock |
+
+- **A good conversation** (DC 13 Persuasion, with Advantage for a Draconic speaker) moves the attitude up a step. Insults, threats or drawn weapons move it down, and Sharia leaves.
+- **Companions:** Fenwick stares at the land and Marta keeps her distance. The soldier has to be told to stand down, or they draw steel and the attitude drops.
+- **If attacked:** use the 2024 **Druid** stat block. Sharia only fights to get away, and the attitude drops to Hostile.
+
+I also updated the Rewards line, the threads (adding "What did the party tell Sharia?"), and Fenwick's entry in the companion table. The grain valley is still in the adventure, but only as a reward for meeting Sharia while the forest people are friendly.
+
+I avoided gendered pronouns for Sharia because you haven't said which to use. Tell me and I'll use them. Do you also want a full NPC note for Sharia in "04 - NPCs and Factions"?
+<!-- copilot-message {"tools":["Bash (execute)"]} -->
+[Timestamp: 2026/11/20 10:40:31]
+
+**user**: the soldier keeps on guard but its steady so no steel, not calming down marta gives the party an auto step down
+<!-- copilot-message {"notes":["Rebels In Store/05 - Adventures/02 - The Lean Weeks.md"]} -->
+[Timestamp: 2026/11/20 10:43:31]
+
+**ai**: I've swapped which companion causes trouble at Sharia's grove in [[02 - The Lean Weeks]]:
+- **The soldier:** stays on guard but steady, and never draws steel, so there's no penalty.
+- **Marta:** keeps her hand on her knife and mutters about "lizards". The party must calm her down, with a word or a **DC 12 Charisma (Persuasion)** check. If they don't, her hostility costs an **automatic step down** in the forest people's attitude.
+- **Fenwick:** unchanged. He stares at the land but causes no penalty.
+
+This fits Marta: she's loyal to her own people and suspicious of outsiders, so bringing her inland risks both her knee at the pit trap and trouble with Sharia.
+<!-- copilot-message {"tools":["Bash (execute)"]} -->
+[Timestamp: 2026/11/20 10:43:31]
+
+**user**: Give a hint that marta is nervous comming from sharia
+<!-- copilot-message {"notes":["Rebels In Store/05 - Adventures/02 - The Lean Weeks.md"]} -->
+[Timestamp: 2026/11/20 10:44:34]
+
+**ai**: I've added the hint to Sharia's meeting in [[02 - The Lean Weeks]]. Early in the conversation, Sharia's eyes move to Marta's hand on her knife, and Sharia tilts their head: *"Salt-one... is afraid. Fear... grows teeth."*
+
+If the party doesn't act on the hint, Marta's nerves break later in the conversation, and that costs the automatic step down.
+
+"Salt-one" is Sharia's name for Marta, a lizardfolk way of describing someone who lives by the sea. The line hints at both Marta's fear and Sharia's perceptiveness. Sharia also has yellow eyes now, a small detail I added; change it if you picture them differently.
+<!-- copilot-message {"tools":["Bash (execute)"]} -->
+[Timestamp: 2026/11/20 10:44:34]
+
+**user**: If the party visits the camp fist the sightings dont happen the lizard folk are not around but they will leave a red cloth on the post and will note what will happen to their offerings later
+<!-- copilot-message {"notes":["Rebels In Store/05 - Adventures/02 - The Lean Weeks.md"]} -->
+[Timestamp: 2026/11/20 10:46:16]
+
+**ai**: I've added an **"If the meadows are the first lead"** box to the Elk Meadows in [[02 - The Lean Weeks]], just before The Choice. I took "the camp" to mean the Elk Meadows lead, since that's where the sightings happen.
+
+- **The forest people are away,** so none of the sightings happen: no glimpse in the trees, no visitors at the night camp and no tracks to follow.
+- **A red cloth on the post instead.** When the party wakes, it's tied there, meaning *"we have seen you; we will judge later"*.
+- **Asking permission gets no answer,** so hunting is neither allowed nor forbidden yet.
+- **Everything the party does is remembered.** Whether they hunt, leave gifts or ignore the post, the attitude change is applied later in the campaign, when the forest people come back and see what was left or taken.
+
+I also added:
+- **The red cloth to the Draconic table:** *"...seen... (an eye-mark)... wait... what you leave, we... will weigh..."*
+- **Its meaning to the DM note** under that table.
+- **A thread for later:** how the forest people judge what the party left at the post.
+
+This matches the reef, where the smugglers only appear if it's the second lead. Visiting the meadows first gives a quieter trip whose consequences come later, while visiting them second leads to the glimpse, the visitors and Sharia.
+<!-- copilot-message {"tools":["Bash (execute)"]} -->
+[Timestamp: 2026/11/20 10:46:16]
+
+**user**: on the way there the what they find table is wierd can you check if it was writen well?
+<!-- copilot-message {"notes":["Rebels In Store/05 - Adventures/02 - The Lean Weeks.md"]} -->
+[Timestamp: 2026/11/20 10:51:53]
+
+**ai**: A sync conflict has rolled back part of this note, so I'm checking what was lost before I answer.You were right, the table was badly written, and it's fixed. While checking it I also found and repaired a sync problem in the same note.
+
+**The table in The Way There (Elk Meadows):**
+- **Why it looked wrong:** it was indented inside a bullet point, and Obsidian doesn't always display an indented table as a table. It also repeated the three cases already described in the bullets above it.
+- **The fix:** I merged the bullets and the table into one three-column table. The columns are what the party did on their first visit, what they find now, and what a DC 13 Religion check reveals. Your wording change ("slow down, not to leave") is kept.
+
+**The sync problem:**
+- **What happened:** Proton Drive created a conflict copy from your Android tablet and replaced this note with an older version. The note had lost several things we added:
+  - Sharia's meeting, which had been replaced by the old "golden valley" pull
+  - the "If the meadows are the first lead" red-cloth box and its line in the Draconic table
+  - Sharia's hint about Marta and the calming check
+  - the new threads
+- **What I did:**
+  1. I put the complete version (the tablet copy) back as the note and applied the table fix to it. Everything above is restored.
+  2. I moved both versions out of the vault as backups in `C:\Users\DiogoOliveira\RebelsInStore-backups\`: the tablet conflict copy and the rolled-back copy. Nothing is deleted, and no other conflict files exist in the vault.
+- **The only difference between the versions:** the rolled-back copy had the Draconic table padded with spaces. That's a formatting change Obsidian makes when it tidies a table, not content.
+
+To stop this happening again, avoid having the vault open on the tablet while we edit here, or wait for Proton Drive to finish syncing first. This is also probably why old NPC links came back in The Water Survey earlier.
+<!-- copilot-message {"tools":["Bash (execute)"]} -->
+[Timestamp: 2026/11/20 10:51:53]
+
+**user**: hunting is forbiden but it doesnt give a step down if the players leave one of the food points to the lizards
+<!-- copilot-message {"notes":["Rebels In Store/05 - Adventures/02 - The Lean Weeks.md"]} -->
+[Timestamp: 2026/11/20 10:55:18]
+
+**ai**: I've updated the red-cloth rule, which applies when the meadows are the party's first lead, in [[02 - The Lean Weeks]]:
+- **Hunting is now forbidden:** the red cloth marks the meadows as closed, and asking permission still gets no answer.
+- **If they hunt anyway,** the forest people's attitude drops one step, applied later when they return.
+- **Unless they share:** if the party leaves **1 of the 2 Food** from the hunt at the post, there's no step down, and the colony keeps +1 Food.
+
+I only changed the first-lead case. When the meadows are the second lead, the forest people are around, and "Hunt here anyway" still drops their attitude one step, with no sharing option. Should leaving 1 Food at the post also prevent the step down in that case?
+<!-- copilot-message {"tools":["Bash (execute)"]} -->
+[Timestamp: 2026/11/20 10:55:18]
+
+**user**: on the pull with sharia it will be in the morning
+<!-- copilot-message {"notes":["Rebels In Store/05 - Adventures/02 - The Lean Weeks.md"]} -->
+[Timestamp: 2026/11/20 10:57:39]
+
+**ai**: Sharia's pull onward now starts in the **morning** instead of at sunset. In [[02 - The Lean Weeks]], the party finds the fresh tracks near the marker post when they wake.
+
+That fits with the night camp: the forest people visit during the night, leaving the footprints and the berries, and their tracks lead away in the morning. The party then has a full day to follow them to Sharia's grove.
+<!-- copilot-message {"tools":["Bash (execute)"]} -->
+[Timestamp: 2026/11/20 10:57:39]
+
+**user**: Add sharia as an npc and give her a statblock as well
+<!-- copilot-message {"notes":["Rebels In Store/05 - Adventures/02 - The Lean Weeks.md"]} -->
+[Timestamp: 2026/11/20 11:02:02]
+
+**ai**: I've created an NPC note for Sharia, [[Forest Druid - Sharia]], in the same format as the other NPC notes. I used she/her for her.
+
+**Character:**
+- **Appearance and role:** grey-green, with a white feathered crest, yellow eyes and a bone staff. She tends her people's sacred places: the Stone Spring, the marker posts and the old orchard.
+- **Background:** she has watched the colony since it landed, and she's the one who changed the offerings and tied the cloths to the post. She knows the story of "the pale ones" who planted the orchard, and she's judging whether the colony is like them or worse.
+- **Personality:** she speaks little but reads people well. Her ideal is *"What is taken must be given back."*
+- **Attitude to the colony:** her behaviour follows the same Hostile, Wary and Friendly scale as the adventure.
+- **DM secret:** she saw Ashby sketching at the spring and searching the camp at night. If the party earns her trust, she warns them: *"The map-one... takes, and hides what he takes."*
+- **Loot:** a bone staff, herbs and seeds, and carved tokens. Taking them from her body is an insult her people will never forgive.
+
+**Stat block (CR 3):** AC 14 and 58 HP, with swim and climb speeds.
+- **Attacks:** two attacks a turn, using her Bone Staff or a bite.
+- **Spells:** *Thorn Whip* at will; *Cure Wounds*, *Entangle* and *Pass without Trace* twice a day; and *Moonbeam* once a day.
+- **Forest Step:** a bonus action to hide or slip away.
+- **Design notes:** like Halloway and Ashby, she's house-made rather than official. She's a hard fight for this party, but she doesn't fight to the death.
+
+**Links:**
+- **[[02 - The Lean Weeks]]:** Sharia's name links to her note, the "If attacked" line uses her stat block, and her pronouns are now she/her.
+- **[[Campaign - Rebels in Store]]:** a new "The Forest People" section in the NPC list.
+
+The note is named "Forest Druid - Sharia", following the "Role - First name" pattern of the other NPCs. Rename it if you'd prefer something else.
+<!-- copilot-message {"tools":["Write (edit): Rebels In Store/04 - NPCs and Factions/Forest Druid - Sharia.md","Bash (execute)"]} -->
+[Timestamp: 2026/11/20 11:02:02]
+
+**user**: Put the npcs into folders for their faction
+[Timestamp: 2026/11/20 11:06:22]
+
+**ai**: The NPC notes are now in faction folders inside "04 - NPCs and Factions":
+
+| Folder | NPCs |
+| --- | --- |
+| **The Crown** | Expedition Commander - Edric, Quartermaster - Isolde, Navigator - Corwin |
+| **Settler Groups** | Marta, Aldous, Hilde, Octavia, Agathe (the five group leaders) |
+| **The Forest People** | Forest Druid - Sharia |
+
+**Links:** none of them broke. Obsidian finds notes by name rather than folder, and no link in the vault includes a folder path.
+
+**Why one folder for the settler leaders:** each leader is their own group's only NPC, so five one-note folders would add clutter. I can still split them into one folder per group if you'd rather.
+
+**Ashby:** he's in The Crown, which is right for his public role and his secret one, since he's the Crown's spy.
+<!-- copilot-message {"tools":["Bash (execute)"]} -->
+[Timestamp: 2026/11/20 11:06:22]
+
+**user**: you didnt create any folder for the settlers
+<!-- copilot-message {"notes":["Rebels In Store/05 - Adventures/02 - The Lean Weeks.md"]} -->
+[Timestamp: 2026/11/20 11:07:09]
+
+**ai**: The "Settler Groups" folder does exist on disk. You probably meant a folder for each group, so I'll split it.I had created a single "Settler Groups" folder for all five leaders, which is why it looked like there was no folder for each group. I've now split it, so each settler group has its own folder:
+
+```
+04 - NPCs and Factions/
+├── Agricultural Settlers/   Agricultural Leader - Aldous
+├── Alchemists/              Alchemist Leader - Octavia
+├── Coastal Settlers/        Coastal Leader - Marta
+├── Industrial Settlers/     Industrial Leader - Hilde
+├── Religious Order/         Religious Leader - Agathe
+├── The Crown/               Edric, Isolde, Corwin
+└── The Forest People/       Sharia
+```
+
+**Links:** they still work, since Obsidian finds notes by name, not by folder.
+
+**If the folders don't show:** Obsidian or Proton Drive may need a moment to catch up. If the folders still don't appear in Obsidian's file list, reload the vault.
+<!-- copilot-message {"tools":["Bash (execute)"]} -->
+[Timestamp: 2026/11/20 11:07:09]
+
+**user**: no group the settler leaders into one folder
+<!-- copilot-message {"notes":["Rebels In Store/05 - Adventures/02 - The Lean Weeks.md"]} -->
+[Timestamp: 2026/11/20 11:07:41]
+
+**ai**: The five settler leaders are back in one folder:
+
+```
+04 - NPCs and Factions/
+├── Settler Leaders/     Aldous, Octavia, Marta, Hilde, Agathe
+├── The Crown/           Edric, Isolde, Corwin
+└── The Forest People/   Sharia
+```
+
+I named the folder **Settler Leaders** rather than "Settler Groups", so it isn't confused with the "02 - Settler Groups" folder of group notes. The empty per-group folders are gone, and all links still work.
+
+If the earlier "Settler Groups" folder didn't appear in Obsidian, it was probably slow to refresh or sync. Reloading the vault should show the new one.
+<!-- copilot-message {"tools":["Bash (execute)"]} -->
+[Timestamp: 2026/11/20 11:07:41]
+
+**user**: remove the files from the ouside of the folders
+<!-- copilot-message {"notes":["Rebels In Store/05 - Adventures/02 - The Lean Weeks.md"]} -->
+[Timestamp: 2026/11/20 11:08:07]
+
+**ai**: There are no loose NPC files on disk. I checked the whole vault, and all nine NPC notes are inside their folders:
+- **Settler Leaders:** the five group leaders
+- **The Crown:** Edric, Isolde and Corwin
+- **The Forest People:** Sharia
+
+Since there was nothing outside the folders, I didn't delete anything. If Obsidian still shows NPC notes outside the folders, it's probably one of these:
+
+1. **Obsidian hasn't refreshed.** Reload the vault (Ctrl+P, then "Reload app without saving") and they should disappear.
+2. **Proton Drive is syncing old copies back from your tablet.** The tablet may still have the notes at their old locations and push them back, as it did with the earlier conflict copy. If loose copies reappear on this computer, tell me and I'll check whether they match the ones in the folders before removing them.
+
+To stop this happening again, let Proton Drive finish syncing on both devices before you open the vault on the tablet.
+<!-- copilot-message {"tools":["Bash (execute)"]} -->
+[Timestamp: 2026/11/20 11:08:07]
+
+**user**: If the bear is still there on the wild orchard path the party has another chance of killing or befriending
+<!-- copilot-message {"notes":["Rebels In Store/05 - Adventures/02 - The Lean Weeks.md"]} -->
+[Timestamp: 2026/11/20 11:11:18]
+
+**ai**: Several notes changed on disk at once, so first I'm checking that a sync hasn't rolled them back again.Nothing was lost: all the recent changes are still in place. Now the bear:The party now gets a second chance with the bear on the Wild Orchard route in [[02 - The Lean Weeks]]. If they only scared it off or distracted it in The Water Survey, it's back at the old camp and remembers them:
+
+| Choice | How | Reward |
+| --- | --- | --- |
+| **Kill it** | The same Wounded Brown Bear stat block; the arrowhead is still in its shoulder | The camp's salvage: **+1 Production** |
+| **Befriend it** | Run "Befriending the Bear" again, with **each DC 2 higher** because it remembers being tricked | It moves to the woods near the spring, and the **Well costs 2 Production less** |
+| **Slip past again** | As before | Nothing. The bear stays, and the trail stays dangerous |
+
+The rewards match The Water Survey, so the second chance can earn the same benefits as the first. The higher DCs for befriending keep tricking it the first time from being free.
+
+A note on the many "changed on disk" warnings just now: I checked, and every recent edit is still in place, so the sync didn't roll anything back this time. The earlier folder reorganisation of the NPC notes isn't committed yet. Git shows the old NPC files as deleted and the new folders as untracked, which will sort itself out when you next commit.
+<!-- copilot-message {"tools":["Bash (execute)"]} -->
+[Timestamp: 2026/11/20 11:11:18]
+
+**user**: If the soldier is with them and they cross the bear the soldier aims at it and the party need to convice him that the bear is not an enemy
+<!-- copilot-message {"notes":["Rebels In Store/05 - Adventures/02 - The Lean Weeks.md"]} -->
+[Timestamp: 2026/11/20 11:15:31]
+
+**ai**: I've added a **"The soldier and the bear"** box to the Wild Orchard in [[02 - The Lean Weeks]]. It sits between The Way There and In the Orchard, so it covers both places the party can meet the bear on this lead: the old camp, and the orchard at night.
+
+- **The soldier raises their weapon** whenever the bear appears, whatever the party thinks of it.
+- **The party must convince them to stand down:** a **DC 13 Charisma (Persuasion or Intimidation)** check. It has Advantage if the bear is already their friend and is behaving calmly.
+- **On a success,** the soldier lowers the weapon but keeps a hand on it.
+- **On a failure,** the soldier attacks:
+  - A befriended bear flees, hurt, and **the friendship is lost**, so it won't help them later.
+  - If the party was trying to befriend it, the attempt fails and the bear fights.
+
+The soldier was the safest companion in the forest. Now the orchard is where they can cause trouble, so every companion has one lead where they're a liability: Fenwick at the reef, Marta with Sharia, and the soldier with the bear.
+<!-- copilot-message {"tools":["Bash (execute)"]} -->
+[Timestamp: 2026/11/20 11:15:31]
+
+**user**: If marta is here then she strangely doesnt mind the bear, maybe a plot twist that she was once someone inland
+<!-- copilot-message {"notes":["Rebels In Store/05 - Adventures/02 - The Lean Weeks.md"]} -->
+[Timestamp: 2026/11/20 11:18:27]
+
+**ai**: I've added the hint to the adventure and the twist idea to Marta's note:
+
+**[[02 - The Lean Weeks]]: new "Marta and the bear" box at the Wild Orchard**
+- **She's strangely calm around the bear.** She stands still, lowers her eyes and speaks to it softly in a dialect nobody recognises, until it loses interest.
+- **She gives Advantage** on Animal Handling checks with the bear, which helps with the second chance to befriend it.
+- **If asked,** she shrugs: *"Bears are like the sea. Respect them, and they leave you be."* A **DC 15 Insight** check shows that's not the whole truth.
+
+**[[Coastal Leader - Marta]]: new DM-only "Plot twist seed"**, marked *(to be decided)*
+- It lists the hints so far, and suggests she grew up inland, in a forest or mountain village, and fled to the coast as a girl.
+- It also suggests her unease in the forest, and with the "lizards", may be fear of being recognised or of remembering.
+- What she ran from, and whether it's connected to this continent, is left for you to decide.
+
+Her other inland reactions now read as clues. She gets hurt at the pit trap, she's nervous with Sharia, yet she's calm with the bear. A careful player might notice she isn't simply out of her depth inland, but hiding something.
+<!-- copilot-message {"tools":["Bash (execute)"]} -->
+[Timestamp: 2026/11/20 11:18:27]
+
+**user**: no advantage but no disadvantage she just respects the bear
+<!-- copilot-message {"notes":["Rebels In Store/05 - Adventures/02 - The Lean Weeks.md"]} -->
+[Timestamp: 2026/11/20 11:19:16]
+
+**ai**: I've removed Marta's Advantage with the bear in [[02 - The Lean Weeks]]. She now gives **no bonus and no penalty**: she neither helps nor gets in the way. She simply respects the bear, and won't let anyone in the party mock or provoke it.
+
+The rest of the box is unchanged: she stays calm, speaks softly in an unknown dialect, and has the evasive line about bears and the sea. Her calm is now purely a story clue rather than a rule, which suits a twist that's still undecided.
+<!-- copilot-message {"tools":["Bash (execute)"]} -->
+[Timestamp: 2026/11/20 11:19:16]
+
+**user**: If it is fenwick then he is actually good with animals and helps the party
+<!-- copilot-message {"notes":["Rebels In Store/05 - Adventures/02 - The Lean Weeks.md"]} -->
+[Timestamp: 2026/11/20 11:20:41]
+
+**ai**: I've added a **"Fenwick and the bear"** box to the Wild Orchard in [[02 - The Lean Weeks]], next to the soldier's and Marta's boxes:
+- **The bear is where he shines.** He's handled oxen, bulls and sheepdogs all his life. He moves slowly, talks low and never turns his back on it.
+- **The party has Advantage on Wisdom (Animal Handling) checks with the bear,** whether they're calming it or making the second attempt to befriend it at the old camp.
+- **If they befriended it before,** he's the first to ask about it and the first to offer it food in the orchard at night.
+
+This fits his NPC note, which already calls him "kind to animals" and the first to ask about the bear. With the second befriending attempt at +2 DC, he's the best companion for the bear. The orchard was already his best lead, so taking Fenwick there now covers the farming checks as well as the bear.
+<!-- copilot-message {"tools":["Bash (execute)"]} -->
+[Timestamp: 2026/11/20 11:20:41]
+
+**user**: If the bear is with the party in the morning it indicates that it wants the party to follow them and helps everyone to get to the house
+<!-- copilot-message {"notes":["Rebels In Store/05 - Adventures/02 - The Lean Weeks.md"]} -->
+[Timestamp: 2026/11/20 11:23:37]
+
+**ai**: The befriended bear can now guide the party to the keeper's house. In [[02 - The Lean Weeks]]:
+- **The night camp:** if the bear raids the hive at night, the scene ends with it still there in the morning.
+- **The keeper's house pull onward** has a new section for when the bear is with them in the morning:
+  - It walks a few steps up the valley, stops and looks back, again and again, until the party follows.
+  - It leads them up an old animal path, so the climb needs **no checks** and takes only **half a day**.
+  - The party gets back before their rations run out, so there's **no day without food** and **no Exhaustion save**.
+  - At the house, the bear scratches at the cellar door, because it has smelled the honey jars for years.
+
+The section notes that this only happens if the soldier didn't drive the bear off. Befriending the bear in The Water Survey, and keeping the soldier calm, now pays off in the second adventure with the only pull onward that has no cost.
+<!-- copilot-message {"tools":["Bash (execute)"]} -->
+[Timestamp: 2026/11/20 11:23:37]
+
+**user**: In the orchard they find baskets and some small walls that lead forward
+<!-- copilot-message {"notes":["Rebels In Store/05 - Adventures/02 - The Lean Weeks.md"]} -->
+[Timestamp: 2026/11/20 11:27:28]
+
+**ai**: I've added **baskets and walls** to the In the Orchard section of [[02 - The Lean Weeks]], just after the clue about who planted it:
+- **Woven baskets:** old baskets are stacked under a rotted lean-to. Some have been recently mended with fresh reeds, in the same style as the fish weir on the way there.
+- **Low dry-stone walls:** they run between the rows of trees and lead up the valley, giving the party their first sign of the keeper's house beyond.
+
+The clues now link up: the mended baskets show the forest people still use the orchard, and the walls point the way to the keeper's house. Players who notice them are drawn on even before they see its roof.
+<!-- copilot-message {"tools":["Bash (execute)"]} -->
+[Timestamp: 2026/11/20 11:27:28]
+
+**user**: Add an insignia of a northen family to the house that the players can easily see over the mantlepiece
+<!-- copilot-message {"notes":["Rebels In Store/05 - Adventures/02 - The Lean Weeks.md"]} -->
+[Timestamp: 2026/11/20 11:29:42]
+
+**ai**: I've added the crest to the keeper's house in [[02 - The Lean Weeks]], in the pull-onward box.
+
+- **Where it is:** carved into the stone mantelpiece over the hearth, impossible to miss.
+- **What it looks like:** a stag's head above three wavy lines, under a northern-style crown of pointed leaves.
+- **What the party can learn:**
+  - **DC 12 Intelligence (History):** the style belongs to the **old northern noble families** of the Crown's own realm.
+  - **DC 16:** names the house, a family said to have died out generations ago.
+- **New thread for later:** "Which northern family's crest hangs over the keeper's hearth, and what happened to them?"
+
+I designed the crest myself, so change it if you have something in mind.
+
+I left the family's name *to be decided*. Do you want to name it now? The crest also changes the meaning of "the pale ones" in the Draconic carvings: the earlier settlers were from the party's own homeland, not a foreign power. The Crown may have sent colonists here before and covered it up, which fits *Rebels in Store* well.
+<!-- copilot-message {"tools":["Bash (execute)"]} -->
+[Timestamp: 2026/11/20 11:29:42]
+
+**user**: There are no graves or any bones so did they die?
+<!-- copilot-message {"notes":["Rebels In Store/05 - Adventures/02 - The Lean Weeks.md"]} -->
+[Timestamp: 2026/11/20 11:30:48]
+
+**ai**: They didn't die: the northern family joined the forest people. I've written this into the notes.
+
+**[[02 - The Lean Weeks]]: the keeper's house**
+- **No graves:** there are no graves outside and no bones inside. A **DC 13 Investigation** check shows the house wasn't left in a hurry: tools hung up, the cellar sealed, the door barred from outside. Whoever lived here left on purpose.
+- **New carvings:** pale, tall figures share a meal with scaled ones, and later there's a pale figure wearing a feathered crest. That's a quiet clue to what really happened.
+- **The DM note** under the Draconic table now says the family joined the forest people and their descendants still live among them. It used to say they died.
+- **The crest thread** now reads: they joined the forest people; when do the party learn it?
+
+**[[Forest Druid - Sharia]]: a new DM-only box, "The pale ones"**
+- The family married in, learned the forest people's ways and were buried as the forest people bury their dead. That's why there are no graves to find.
+- Some of the forest people still carry their blood and a few of their words.
+- Sharia knows the whole story, but keeps it from anyone who hasn't earned her trust, because she fears the Crown would come to claim them or their land.
+- Whether she's descended from the family herself is left *to be decided*.
+
+This raises the stakes for the Crown plot. If Ashby learns of the crest and reports it, a lost noble bloodline living among the lizardfolk could give the Crown a claim on the forest people's land.
+<!-- copilot-message {"tools":["Answered: Joined the forest people (other)","Bash (execute)"]} -->
+[Timestamp: 2026/11/20 11:30:48]

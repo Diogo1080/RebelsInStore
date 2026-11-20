@@ -50,6 +50,11 @@ Leader of [[The Coastal Settlers]]. A weathered fishwife in her sixties who has 
 > - If the colony ever wants to trade **without the Crown**, she's the person who can make it happen.
 > - If [[Navigator - Corwin|Ashby]] finds out, she becomes the Crown's first target.
 
+> [!danger]- DM ONLY: Plot twist seed *(to be decided)*
+> Marta may not have been born on the coast at all. Hints so far: she's calm around bears and speaks to them in an inland dialect ([[02 - The Lean Weeks]]).
+> - **Idea:** she grew up inland, in a forest or mountain village, and fled to the coast as a girl, marrying into the fishing families. Her fear of the forest and the "lizards" might be fear of being recognised, or of remembering.
+> - Decide later what she ran from, and whether it's connected to this continent at all.
+
 ## In Combat
 Use the **Pirate** stat block (2024 Monster Manual). She fights with a boat hook and a gutting knife, and never alone: 2–3 fishers back her up.
 

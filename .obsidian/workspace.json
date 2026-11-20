@@ -55,12 +55,12 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "Rebels In Store/04 - NPCs and Factions/Coastal Leader - Marta.md",
+                "file": "Rebels In Store/05 - Adventures/02 - The Lean Weeks.md",
                 "mode": "source",
                 "source": false
               },
               "icon": "lucide-file",
-              "title": "Coastal Leader - Marta"
+              "title": "02 - The Lean Weeks"
             }
           },
           {
@@ -92,7 +92,7 @@
             }
           }
         ],
-        "currentTab": 2
+        "currentTab": 3
       }
     ],
     "direction": "vertical"
@@ -274,43 +274,43 @@
       "copilot:Open Copilot Agent Chat": false
     }
   },
-  "active": "03622bc1d0c18853",
+  "active": "c8044805292c1714",
   "lastOpenFiles": [
-    "Rebels In Store/05 - Adventures/02 - The Lean Weeks.md.tmp.252092.5551000654f9",
-    "Rebels In Store/05 - Adventures/02 - The Lean Weeks.md.tmp.252092.5e7a72cf3b83",
-    "Rebels In Store/05 - Adventures/02 - The Lean Weeks.md.tmp.252092.837dfc75c132",
-    "Rebels In Store/05 - Adventures/02 - The Lean Weeks.md.tmp.252092.e2c9c33470b8",
-    "Rebels In Store/05 - Adventures/02 - The Lean Weeks.md.tmp.252092.8dc6b7d0914d",
-    "Rebels In Store/05 - Adventures/02 - The Lean Weeks.md.tmp.252092.80793ee5e64d",
-    "Rebels In Store/05 - Adventures/02 - The Lean Weeks.md.tmp.252092.8aae9ebe1582",
-    "Rebels In Store/05 - Adventures/02 - The Lean Weeks.md.tmp.252092.54b61501646b",
-    "Rebels In Store/05 - Adventures/02 - The Lean Weeks.md.tmp.252092.924a857843b2",
-    "Rebels In Store/03 - Economy/Crown Exports.md",
-    "Rebels In Store/01 - Expedition/The Royal Fortune.md",
-    "Rebels In Store/00 - Campaign Rules.md",
-    "Rebels In Store/04 - NPCs and Factions/Coastal Leader - Marta.md",
     "Rebels In Store/05 - Adventures/02 - The Lean Weeks.md",
-    "Rebels In Store/05 - Adventures/02 - The Lean Weeks.md.tmp.252092.b5ee702d5788",
-    "Rebels In Store/05 - Adventures/02 - The Lean Weeks.md.tmp.252092.21510fdcf565",
-    "Rebels In Store/03 - Economy/Colony Production.md",
-    "Rebels In Store/05 - Adventures/The Water Survey.md",
-    "Rebels In Store/05 - Adventures/01 - The Water Survey.md",
-    "Rebels In Store/05 - Adventures/The Lean Weeks.md",
-    "Rebels In Store/04 - NPCs and Factions/Alchemist Leader - Octavia.md",
-    "Rebels In Store/04 - NPCs and Factions/Industrial Leader - Hilde.md",
-    "Rebels In Store/04 - NPCs and Factions/Navigator - Corwin.md",
-    "Rebels In Store/04 - NPCs and Factions/Religious Leader - Agathe.md",
-    "Rebels In Store/04 - NPCs and Factions/Quartermaster - Isolde.md",
-    "Rebels In Store/04 - NPCs and Factions/Expedition Commander - Edric.md",
-    "Rebels In Store/01 - Expedition/Expedition Supplies.md",
     "Rebels In Store/04 - NPCs and Factions/Agricultural Leader - Aldous.md",
-    "Rebels In Store/03 - Economy/Royal Supply Contracts.md",
-    "Rebels In Store/02 - Settler Groups/The Religious Order.md",
-    "Rebels In Store/02 - Settler Groups/The Industrial Settlers.md",
-    "Rebels In Store/02 - Settler Groups/The Coastal Settlers.md",
-    "Rebels In Store/02 - Settler Groups/The Alchemists.md",
-    "Rebels In Store/02 - Settler Groups/The Agricultural Settlers.md",
-    "Rebels In Store/02 - Settler Groups/Settler Groups.md",
-    "Rebels In Store/01 - Expedition/The Royal Expedition.md"
+    "Rebels In Store/04 - NPCs and Factions/The Forest People/Forest Druid - Sharia.md",
+    "Rebels In Store/04 - NPCs and Factions/Religious Leader - Agathe.md",
+    "Rebels In Store/04 - NPCs and Factions/Alchemist Leader - Octavia.md",
+    "Rebels In Store/04 - NPCs and Factions/Coastal Leader - Marta.md",
+    "Rebels In Store/04 - NPCs and Factions/Settler Leaders/Religious Leader - Agathe.md",
+    "Rebels In Store/04 - NPCs and Factions/Settler Leaders/Industrial Leader - Hilde.md",
+    "Rebels In Store/04 - NPCs and Factions/Settler Leaders/Coastal Leader - Marta.md",
+    "Rebels In Store/04 - NPCs and Factions/Settler Leaders/Alchemist Leader - Octavia.md",
+    "Rebels In Store/04 - NPCs and Factions/Settler Leaders/Agricultural Leader - Aldous.md",
+    "Rebels In Store/04 - NPCs and Factions/Settler Leaders",
+    "Rebels In Store/04 - NPCs and Factions/Religious Order/Religious Leader - Agathe.md",
+    "Rebels In Store/04 - NPCs and Factions/Religious Order",
+    "Rebels In Store/04 - NPCs and Factions/Alchemists/Alchemist Leader - Octavia.md",
+    "Rebels In Store/04 - NPCs and Factions/Alchemists",
+    "Rebels In Store/04 - NPCs and Factions/Industrial Settlers/Industrial Leader - Hilde.md",
+    "Rebels In Store/04 - NPCs and Factions/Industrial Settlers",
+    "Rebels In Store/04 - NPCs and Factions/Agricultural Settlers/Agricultural Leader - Aldous.md",
+    "Rebels In Store/04 - NPCs and Factions/Agricultural Settlers",
+    "Rebels In Store/04 - NPCs and Factions/Coastal Settlers/Coastal Leader - Marta.md",
+    "Rebels In Store/04 - NPCs and Factions/Settler Groups/Industrial Leader - Hilde.md",
+    "Rebels In Store/04 - NPCs and Factions/Settler Groups/Religious Leader - Agathe.md",
+    "Rebels In Store/04 - NPCs and Factions/Settler Groups/Alchemist Leader - Octavia.md",
+    "Rebels In Store/04 - NPCs and Factions/Settler Groups/Agricultural Leader - Aldous.md",
+    "Rebels In Store/04 - NPCs and Factions/Settler Groups",
+    "Rebels In Store/04 - NPCs and Factions/Coastal Settlers",
+    "Rebels In Store/04 - NPCs and Factions/Forest Druid - Sharia.md",
+    "Rebels In Store/04 - NPCs and Factions/The Forest People",
+    "Rebels In Store/04 - NPCs and Factions/The Crown/Quartermaster - Isolde.md",
+    "Rebels In Store/04 - NPCs and Factions/The Crown/Expedition Commander - Edric.md",
+    "Rebels In Store/04 - NPCs and Factions/The Crown/Navigator - Corwin.md",
+    "Rebels In Store/04 - NPCs and Factions/The Crown",
+    "Rebels In Store/05 - Adventures/02 - The Lean Weeks (conflict 2026-11-20 1048 from Android tablet).md",
+    "Rebels In Store/05 - Adventures/02 - The Lean Weeks.md.tmp.252092.5551000654f9",
+    "Rebels In Store/03 - Economy/Crown Exports.md"
   ]
 }
